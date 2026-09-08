@@ -35,7 +35,18 @@
       "path": "home/.config/hypr",
       "autosave": true,
       "encrypt": false,
-      "variants": []
+      "variants": [
+        {
+          "os": [],
+          "profile": null,
+          "default": true
+        },
+        {
+          "os": [],
+          "profile": "desk",
+          "default": false
+        }
+      ]
     },
     {
       "path": "home/.config/kanata",

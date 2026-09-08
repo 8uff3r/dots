@@ -16,7 +16,7 @@ pi = "latest"
 "~/.config/fish" = { mode = "track" }
 "~/.config/fontconfig" = { mode = "track" }
 "~/.config/foot" = { mode = "track" }
-"~/.config/hypr" = { mode = "track" }
+"~/.config/hypr" = { mode = "track", variants = [{ default = true }, { profile = "desk" }] }
 "~/.config/kanata" = { mode = "track" }
 "~/.config/mise/config.toml" = { mode = "track" }
 "~/.config/nvim" = { mode = "track" }
