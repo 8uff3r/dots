@@ -1,0 +1,30 @@
+[tools]
+bun = "latest"
+cargo-binstall = "latest"
+claude = "latest"
+codex = "latest"
+crush = "latest"
+gh = "latest"
+"github:can1357/oh-my-pi" = "latest"
+mr-boxington = "latest"
+"npm:@xai-official/grok" = "latest"
+opencode = "latest"
+pi = "latest"
+
+[dotfiles]
+"~/.config/alacritty" = { mode = "track" }
+"~/.config/fish" = { mode = "track" }
+"~/.config/fontconfig" = { mode = "track" }
+"~/.config/foot" = { mode = "track" }
+"~/.config/hypr" = { mode = "track" }
+"~/.config/kanata" = { mode = "track" }
+"~/.config/mise/config.toml" = { mode = "track" }
+"~/.config/nvim" = { mode = "track" }
+"~/.config/omarchy/shell.json" = { mode = "track" }
+"~/.config/qtengine" = { mode = "track" }
+"~/.config/systemd/user/kana-switch.service" = { mode = "track" }
+"~/.config/systemd/user/kanata.service" = { mode = "track" }
+"~/.config/zed" = { mode = "track" }
+
+[bootstrap.services.mise-history]
+builtin = "history-watch"
