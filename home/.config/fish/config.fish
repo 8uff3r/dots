@@ -50,7 +50,7 @@ if status is-interactive # Commands to run in interactive sessions can go here
     alias systemsettingsr='pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY KDE_SESSION_VERSION=5 KDE_FULL_SESSION=true dbus-launch systemsettings &>/dev/null &'
     alias kater='pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY KDE_SESSION_VERSION=5 KDE_FULL_SESSION=true dbus-launch kate &>/dev/null &'
     alias qr='qrencode -m 2 -t utf8'
-    alias dot=mise bootstrap dotfiles
+    alias dot='mise bootstrap dotfiles'
 
     alias pkexec='pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY'
     # Fedora
