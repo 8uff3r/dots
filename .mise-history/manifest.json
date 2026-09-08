@@ -64,7 +64,18 @@
       "path": "home/.config/omarchy/shell.json",
       "autosave": true,
       "encrypt": false,
-      "variants": []
+      "variants": [
+        {
+          "os": [],
+          "profile": null,
+          "default": true
+        },
+        {
+          "os": [],
+          "profile": "desk",
+          "default": false
+        }
+      ]
     },
     {
       "path": "home/.config/qtengine",
