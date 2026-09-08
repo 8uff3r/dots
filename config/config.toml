@@ -21,7 +21,6 @@ pi = "latest"
 "~/.config/mise/config.toml" = { mode = "track" }
 "~/.config/nvim" = { mode = "track" }
 "~/.config/omarchy/shell.json" = { mode = "track", variants = [{ default = true }, { profile = "desk" }] }
-"~/.config/omarchy/shell.json" = { mode = "track", variants = [{ default = true }, { profile = "laptop" }] }
 "~/.config/qtengine" = { mode = "track" }
 "~/.config/systemd/user/kana-switch.service" = { mode = "track" }
 "~/.config/systemd/user/kanata.service" = { mode = "track" }
