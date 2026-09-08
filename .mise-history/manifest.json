@@ -32,6 +32,12 @@
       "variants": []
     },
     {
+      "path": "home/.config/qtengine",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    },
+    {
       "path": "home/.config/zed",
       "autosave": true,
       "encrypt": false,
