@@ -1,0 +1,213 @@
+{
+  "bar": {
+    "centerAnchor": "omarchy.clock",
+    "layout": {
+      "center": [
+        {
+          "id": "omarchy.indicators"
+        },
+        {
+          "id": "omarchy.weather"
+        },
+        {
+          "id": "quickshell.spotify",
+          "deviceName": "Omarchy Spotify",
+          "idleShutdownMinutes": 15,
+          "showMiniPlayer": "On",
+          "shortcutPlayer": "Omarchy Music app",
+          "shortcutHints": "On",
+          "showTrackTitle": "On",
+          "showArtistName": "Off",
+          "showPausedTrack": "On",
+          "scrollBarText": "Off",
+          "scrollSpeed": "1",
+          "maxBarTextWidth": "240",
+          "audioQuality": "320 kbps"
+        },
+        {
+          "id": "leomoon-studios.omarchy-persian-calendar"
+        },
+        {
+          "id": "omarchy.clock",
+          "birthYear": 2000,
+          "format": "ddd d MMM HH:mm",
+          "formatAlt": "d MMMM 'W'ww yyyy",
+          "lifeExpectancy": 60,
+          "verticalFormat": "HH\n—\nmm"
+        },
+        {
+          "id": "famas.media-plus"
+        },
+        {
+          "id": "esegnorelli.omacapy",
+          "panelSide": "center"
+        },
+        {
+          "id": "omarchy.system-update"
+        }
+      ],
+      "left": [
+        {
+          "id": "omarchy.keyboard-layout"
+        },
+        {
+          "id": "omarchy.menu"
+        },
+        {
+          "id": "omarchy.workspaces"
+        },
+        {
+          "id": "b.everything"
+        },
+        {
+          "id": "pick.screenshot"
+        },
+        {
+          "id": "agx.screen-time"
+        },
+        {
+          "id": "io.github.silouanwright.look-elsewhere"
+        }
+      ],
+      "right": [
+        {
+          "id": "omarchy.tray"
+        },
+        {
+          "id": "3lymn.plugin-drawer",
+          "widgets": [
+            "local.opencode-go",
+            "io.github.bmontythe3rd.display-manager",
+            "gotar.omarchy-themes",
+            "silvaio.gamemode",
+            "perfektnacht.controller-launcher",
+            "omakdeconnect",
+            "dlpwaters.qr-generator",
+            "omamail",
+            "io.github.jondkinney.omapop",
+            "skvggor.omavault",
+            "omarchy.agents",
+            "omaplug"
+          ],
+          "gridColumns": 4,
+          "scale": 0.3
+        },
+        {
+          "id": "stappmus.activity-monitor"
+        },
+        {
+          "id": "wian47.removable-drives"
+        },
+        {
+          "id": "omaconnect"
+        },
+        {
+          "id": "hl.peripheral_battery",
+          "displayStyle": "List"
+        },
+        {
+          "id": "omarchy.network"
+        },
+        {
+          "id": "omarchy.power"
+        },
+        {
+          "id": "ssupt.bluetooth-audio"
+        },
+        {
+          "id": "matjam.omawall"
+        },
+        {
+          "id": "omarchy.audio"
+        },
+        {
+          "id": "omarchy.monitor"
+        }
+      ]
+    },
+    "position": "top",
+    "transparent": false
+  },
+  "cloneSourceRestores": [
+    "matjam.omawall",
+    "famas.media-plus",
+    "io.github.sirjul1337.lock-explorer"
+  ],
+  "disabledPlugins": [
+    "omarchy.media",
+    "omarchy.lock"
+  ],
+  "idle": {
+    "lock": 300,
+    "screensaver": 150
+  },
+  "plugins": [
+    {
+      "id": "b.okomart"
+    },
+    {
+      "id": "cliamp"
+    },
+    {
+      "id": "shell.settings"
+    },
+    {
+      "id": "com.aktivesolutions.bw-vault"
+    },
+    {
+      "id": "io.github.sirjul1337.lock-explorer",
+      "design": "poster"
+    },
+    {
+      "id": "io.github.bmontythe3rd.display-manager"
+    },
+    {
+      "id": "silvaio.gamemode"
+    },
+    {
+      "id": "perfektnacht.controller-launcher"
+    },
+    {
+      "id": "omakdeconnect"
+    },
+    {
+      "id": "omamail"
+    },
+    {
+      "id": "io.github.jondkinney.omapop"
+    },
+    {
+      "id": "skvggor.omavault"
+    },
+    {
+      "id": "local.opencode-go"
+    },
+    {
+      "id": "dlpwaters.qr-generator"
+    },
+    {
+      "id": "gotar.omarchy-themes"
+    },
+    {
+      "id": "omarchy.agents"
+    },
+    {
+      "id": "omaplug"
+    },
+    {
+      "id": "rdf.dock",
+      "items": [
+        {
+          "desktop": "brave-origin"
+        },
+        {
+          "desktop": "dev.zed.Zed"
+        },
+        {
+          "desktop": "org.telegram.desktop"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}
