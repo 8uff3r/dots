@@ -14,6 +14,12 @@
       "variants": []
     },
     {
+      "path": "home/.config/fontconfig",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    },
+    {
       "path": "home/.config/foot",
       "autosave": true,
       "encrypt": false,
