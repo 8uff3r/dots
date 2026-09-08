@@ -32,3 +32,4 @@ builtin = "history-watch"
 [bootstrap.packages]
 "pacman:omakade" = "latest"
 "pacman:yazi" = "latest"
+"pacman:telegram-desktop" = "latest"
