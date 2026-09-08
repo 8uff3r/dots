@@ -28,3 +28,6 @@ pi = "latest"
 
 [bootstrap.services.mise-history]
 builtin = "history-watch"
+
+[bootstrap.packages]
+"pacman:omakade" = "latest"
