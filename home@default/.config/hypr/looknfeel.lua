@@ -29,7 +29,7 @@ hl.config({
                 inactive = hl.get_config("group.col.border_inactive"),
             },
             indicator_gap = 0,
-            height = 18,
+            height = 15,
             gaps_in = 5,
             gaps_out = 0,
             keep_upper_gap = false,
