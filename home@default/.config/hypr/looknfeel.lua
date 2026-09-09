@@ -30,7 +30,7 @@ hl.config({
             },
             indicator_gap = 0,
             height = 18,
-            gaps_in = 10,
+            gaps_in = 0,
             gaps_out = 0,
             keep_upper_gap = false,
             round_only_edges = true,
