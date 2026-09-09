@@ -118,7 +118,7 @@
   "theme": {
     "mode": "dark",
     "light": "Ayu Light",
-    "dark": "Omazed",
+    "dark": "Catppuccin Mocha - No Italics",
   },
   "session": {
     "trust_all_worktrees": true,
