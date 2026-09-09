@@ -207,9 +207,6 @@
           "desktop": "org.telegram.desktop"
         }
       ]
-    },
-    {
-      "id": "omadock"
     }
   ],
   "version": 1
