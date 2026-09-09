@@ -74,25 +74,6 @@
           "id": "omarchy.tray"
         },
         {
-          "id": "3lymn.plugin-drawer",
-          "widgets": [
-            "local.opencode-go",
-            "io.github.bmontythe3rd.display-manager",
-            "gotar.omarchy-themes",
-            "silvaio.gamemode",
-            "perfektnacht.controller-launcher",
-            "omakdeconnect",
-            "dlpwaters.qr-generator",
-            "omamail",
-            "io.github.jondkinney.omapop",
-            "skvggor.omavault",
-            "omarchy.agents",
-            "omaplug"
-          ],
-          "gridColumns": 4,
-          "scale": 0.3
-        },
-        {
           "id": "stappmus.activity-monitor"
         },
         {
