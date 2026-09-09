@@ -36,7 +36,6 @@ hl.config({
             round_only_edges = true,
             gradient_rounding = 0,
             gradient_round_only_edges = true,
-            text_color = "rgba(00000000)",
             indicator_height = 0,
         },
     },
