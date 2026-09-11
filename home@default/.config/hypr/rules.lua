@@ -134,6 +134,12 @@ local rules = {
         fullscreen = true,
         workspace = 4,
     },
+
+    {
+        match = { class = "^(io.github.tsouth89.Omakade)$" },
+        workspace = 3,
+    },
+
     -- Tearing
     { match = { title = ".*\\.exe" },      immediate = true },
     { match = { title = ".*minecraft.*" }, immediate = true },
