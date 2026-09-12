@@ -71,9 +71,9 @@
         }
       ],
       "right": [
-	{
-	  "id": "omamail"
-	},
+        {
+          "id": "omamail"
+        },
         {
           "id": "omarchy.tray"
         },
@@ -129,9 +129,6 @@
   "plugins": [
     {
       "id": "b.okomart"
-    },
-    {
-      "id": "cliamp"
     },
     {
       "id": "shell.settings"
