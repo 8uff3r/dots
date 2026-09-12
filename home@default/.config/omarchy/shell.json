@@ -25,7 +25,8 @@
           "audioQuality": "320 kbps"
         },
         {
-          "id": "leomoon-studios.omarchy-persian-calendar"
+          "id": "leomoon-studios.omarchy-persian-calendar",
+          "format": "day-month"
         },
         {
           "id": "omarchy.clock",
