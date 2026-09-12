@@ -189,6 +189,9 @@
           "desktop": "org.telegram.desktop"
         }
       ]
+    },
+    {
+      "id": "cliamp"
     }
   ],
   "version": 1
