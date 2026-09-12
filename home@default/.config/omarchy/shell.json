@@ -71,6 +71,9 @@
         }
       ],
       "right": [
+	{
+	  "id": "omamail"
+	},
         {
           "id": "omarchy.tray"
         },
