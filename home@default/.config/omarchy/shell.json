@@ -99,7 +99,8 @@
         },
         {
           "id": "io.github.terrifiedbug.omaice",
-          "revealOnHover": true
+          "revealOnHover": true,
+          "revealMode": "row"
         },
         {
           "id": "wian47.removable-drives"
