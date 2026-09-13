@@ -50,6 +50,28 @@
         },
         {
           "id": "omarchy.system-update"
+        }
+      ],
+      "left": [
+        {
+          "id": "omarchy.keyboard-layout"
+        },
+        {
+          "id": "omarchy.menu"
+        },
+        {
+          "id": "omarchy.workspaces"
+        },
+        {
+          "id": "agx.screen-time"
+        },
+        {
+          "id": "io.github.silouanwright.look-elsewhere"
+        }
+      ],
+      "right": [
+        {
+          "id": "omarchy.tray"
         },
         {
           "id": "leomoon-studios.omarchy-persian-calendar",
@@ -91,28 +113,6 @@
         {
           "id": "jrmmhm.pocket",
           "members": "leomoon-studios.omarchy-persian-calendar, local.opencode-go, omarchy.agents, omamail, omakdeconnect, skvggor.omavault, perfektnacht.controller-launcher, dlpwaters.qr-generator, com.aktivesolutions.bw-vault, stappmus.activity-monitor"
-        },
-      ],
-      "left": [
-        {
-          "id": "omarchy.keyboard-layout"
-        },
-        {
-          "id": "omarchy.menu"
-        },
-        {
-          "id": "omarchy.workspaces"
-        },
-        {
-          "id": "agx.screen-time"
-        },
-        {
-          "id": "io.github.silouanwright.look-elsewhere"
-        }
-      ],
-      "right": [
-        {
-          "id": "omarchy.tray"
         },
         {
           "id": "hl.peripheral_battery",
