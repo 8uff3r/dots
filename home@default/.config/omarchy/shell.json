@@ -34,10 +34,6 @@
           "audioQuality": "320 kbps"
         },
         {
-          "id": "leomoon-studios.omarchy-persian-calendar",
-          "format": "day-month-year"
-        },
-        {
           "id": "omarchy.clock",
           "birthYear": 2000,
           "format": "ddd d MMM HH:mm",
@@ -78,6 +74,10 @@
           "id": "omarchy.tray"
         },
         {
+          "id": "leomoon-studios.omarchy-persian-calendar",
+          "format": "day-month-year"
+        },
+        {
           "id": "local.opencode-go"
         },
         {
@@ -106,7 +106,7 @@
         },
         {
           "id": "jrmmhm.pocket",
-          "members": "local.opencode-go, omarchy.agents, omamail, omakdeconnect, skvggor.omavault, perfektnacht.controller-launcher, dlpwaters.qr-generator, com.aktivesolutions.bw-vault, stappmus.activity-monitor"
+          "members": "leomoon-studios.omarchy-persian-calendar, local.opencode-go, omarchy.agents, omamail, omakdeconnect, skvggor.omavault, perfektnacht.controller-launcher, dlpwaters.qr-generator, com.aktivesolutions.bw-vault, stappmus.activity-monitor"
         },
         {
           "id": "wian47.removable-drives"
