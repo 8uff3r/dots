@@ -81,6 +81,9 @@
           "id": "omamail"
         },
         {
+          "id": "omarchy.agents"
+        },
+        {
           "id": "omarchy.tray"
         },
         {
@@ -198,6 +201,9 @@
     },
     {
       "id": "cliamp"
+    },
+    {
+      "id": "omarchy.clipboard"
     }
   ],
   "version": 1
