@@ -71,10 +71,10 @@
       ],
       "right": [
         {
-          "id": "stappmus.activity-monitor"
+          "id": "local.opencode-go"
         },
         {
-          "id": "local.opencode-go"
+          "id": "stappmus.activity-monitor"
         },
         {
           "id": "omarchy.agents"
