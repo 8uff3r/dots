@@ -49,9 +49,6 @@
           "panelSide": "center"
         },
         {
-          "id": "omarchy.tray"
-        },
-        {
           "id": "omarchy.system-update"
         }
       ],
@@ -73,6 +70,9 @@
         }
       ],
       "right": [
+        {
+          "id": "omarchy.tray"
+        },
         {
           "id": "leomoon-studios.omarchy-persian-calendar",
           "format": "day-month-year"
