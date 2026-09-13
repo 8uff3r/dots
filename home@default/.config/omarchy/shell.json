@@ -71,15 +71,15 @@
       ],
       "right": [
         {
+          "id": "leomoon-studios.omarchy-persian-calendar",
+          "format": "day-month-year"
+        },
+        {
           "id": "io.github.terrifiedbug.omaice",
           "revealOnHover": true
         },
         {
           "id": "stappmus.activity-monitor"
-        },
-        {
-          "id": "leomoon-studios.omarchy-persian-calendar",
-          "format": "day-month-year"
         },
         {
           "id": "local.opencode-go"
