@@ -75,14 +75,14 @@
           "format": "day-month-year"
         },
         {
-          "id": "io.github.terrifiedbug.omaice",
-          "revealOnHover": true
-        },
-        {
           "id": "stappmus.activity-monitor"
         },
         {
           "id": "local.opencode-go"
+        },
+        {
+          "id": "io.github.terrifiedbug.omaice",
+          "revealOnHover": true
         },
         {
           "id": "omarchy.agents"
