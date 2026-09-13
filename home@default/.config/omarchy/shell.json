@@ -72,9 +72,6 @@
       ],
       "right": [
         {
-          "id": "local.opencode-go"
-        },
-        {
           "id": "omarchy.tray"
         },
         {
@@ -93,8 +90,11 @@
           "id": "perfektnacht.controller-launcher"
         },
         {
+          "id": "local.opencode-go"
+        },
+        {
           "id": "jrmmhm.pocket",
-          "members": "omarchy.agents, omamail, omakdeconnect, skvggor.omavault, perfektnacht.controller-launcher"
+          "members": "omarchy.agents, omamail, omakdeconnect, skvggor.omavault, perfektnacht.controller-launcher, local.opencode-go"
         },
         {
           "id": "wian47.removable-drives"
