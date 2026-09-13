@@ -72,6 +72,9 @@
       ],
       "right": [
         {
+          "id": "local.opencode-go"
+        },
+        {
           "id": "omarchy.tray"
         },
         {
