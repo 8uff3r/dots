@@ -71,6 +71,9 @@
       ],
       "right": [
         {
+          "id": "leomoon-studios.omarchy-persian-calendar"
+        },
+        {
           "id": "local.opencode-go"
         },
         {
@@ -90,9 +93,6 @@
         },
         {
           "id": "perfektnacht.controller-launcher"
-        },
-        {
-          "id": "leomoon-studios.omarchy-persian-calendar"
         },
         {
           "id": "com.aktivesolutions.bw-vault"
