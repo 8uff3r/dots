@@ -140,10 +140,12 @@
   },
   "cloneSourceRestores": [
     "matjam.omawall",
-    "famas.media-plus"
+    "famas.media-plus",
+    "io.github.sirjul1337.lock-explorer"
   ],
   "disabledPlugins": [
-    "omarchy.media"
+    "omarchy.media",
+    "omarchy.lock"
   ],
   "idle": {
     "lock": 300,
@@ -217,6 +219,9 @@
     },
     {
       "id": "omadock"
+    },
+    {
+      "id": "io.github.sirjul1337.lock-explorer"
     }
   ],
   "version": 1
