@@ -78,9 +78,6 @@
           "id": "omarchy.tray"
         },
         {
-          "id": "stappmus.activity-monitor"
-        },
-        {
           "id": "local.opencode-go"
         },
         {
@@ -105,8 +102,11 @@
           "id": "com.aktivesolutions.bw-vault"
         },
         {
+          "id": "stappmus.activity-monitor"
+        },
+        {
           "id": "jrmmhm.pocket",
-          "members": "stappmus.activity-monitor, local.opencode-go, omarchy.agents, omamail, omakdeconnect, skvggor.omavault, perfektnacht.controller-launcher, dlpwaters.qr-generator, com.aktivesolutions.bw-vault"
+          "members": "local.opencode-go, omarchy.agents, omamail, omakdeconnect, skvggor.omavault, perfektnacht.controller-launcher, dlpwaters.qr-generator, com.aktivesolutions.bw-vault, stappmus.activity-monitor"
         },
         {
           "id": "wian47.removable-drives"
