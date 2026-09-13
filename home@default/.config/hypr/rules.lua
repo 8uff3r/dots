@@ -394,3 +394,9 @@ for _, value in ipairs(rules) do
 end
 
 hl.workspace_rule({ workspace = "special:special", gaps_out = 50, layout = "scrolling" })
+
+hl.layer_rule({
+    match = { namespace = "omarchy-spotlight" },
+    blur = true,
+    ignore_alpha = 0.4,
+})
