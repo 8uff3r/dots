@@ -230,7 +230,8 @@ local binds = {
     {
         "ALT + X",
         "Omarchy menu",
-        "omarchy-menu toggle root",
+        -- "omarchy-menu toggle root",
+        "omarchy-shell shell toggle io.github.maajix.spotlight"
     },
     {
         "SUPER + R",
