@@ -10,6 +10,9 @@
           "id": "omarchy.weather"
         },
         {
+          "id": "rosakodu.dock"
+        },
+        {
           "id": "quickshell.spotify",
           "deviceName": "Omarchy Spotify",
           "idleShutdownMinutes": 15,
