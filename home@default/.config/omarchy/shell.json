@@ -81,6 +81,9 @@
             },
             {
               "id": "com.aktivesolutions.bw-vault"
+            },
+            {
+              "id": "dlpwaters.qr-generator"
             }
           ]
         },
@@ -105,9 +108,6 @@
         },
         {
           "id": "perfektnacht.controller-launcher"
-        },
-        {
-          "id": "dlpwaters.qr-generator"
         },
         {
           "id": "wian47.removable-drives"
