@@ -140,12 +140,10 @@
   },
   "cloneSourceRestores": [
     "matjam.omawall",
-    "famas.media-plus",
-    "io.github.sirjul1337.lock-explorer"
+    "famas.media-plus"
   ],
   "disabledPlugins": [
-    "omarchy.media",
-    "omarchy.lock"
+    "omarchy.media"
   ],
   "idle": {
     "lock": 300,
@@ -157,10 +155,6 @@
     },
     {
       "id": "shell.settings"
-    },
-    {
-      "id": "io.github.sirjul1337.lock-explorer",
-      "design": "poster"
     },
     {
       "id": "io.github.bmontythe3rd.display-manager"
