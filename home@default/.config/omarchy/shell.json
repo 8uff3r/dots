@@ -75,6 +75,9 @@
           "id": "omarchy.tray"
         },
         {
+          "id": "local.opencode-go"
+        },
+        {
           "id": "omarchy.agents"
         },
         {
@@ -90,9 +93,6 @@
           "id": "perfektnacht.controller-launcher"
         },
         {
-          "id": "local.opencode-go"
-        },
-        {
           "id": "dlpwaters.qr-generator"
         },
         {
@@ -100,7 +100,7 @@
         },
         {
           "id": "jrmmhm.pocket",
-          "members": "omarchy.agents, omamail, omakdeconnect, skvggor.omavault, perfektnacht.controller-launcher, local.opencode-go, dlpwaters.qr-generator, com.aktivesolutions.bw-vault"
+          "members": "local.opencode-go, omarchy.agents, omamail, omakdeconnect, skvggor.omavault, perfektnacht.controller-launcher, dlpwaters.qr-generator, com.aktivesolutions.bw-vault"
         },
         {
           "id": "wian47.removable-drives"
