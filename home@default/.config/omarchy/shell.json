@@ -216,6 +216,9 @@
     },
     {
       "id": "omarchy.clipboard"
+    },
+    {
+      "id": "io.github.erikburdett.rollingshot"
     }
   ],
   "version": 1
