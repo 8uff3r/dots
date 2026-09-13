@@ -326,7 +326,3 @@ o.bind("SUPER + ALT + SHIFT + F", "File manager (cwd)", { launch = 'flea --gui "
 -- flea --picker: begin. Written by `flea --picker`; `flea --picker off` removes the block whole.
 o.window("com.thisisgm.flea.picker", { tag = "+floating-window" })
 -- flea --picker: end.
-
--- RollingShot (io.github.erikburdett.rollingshot): capture a whole scrolling page.
--- Press once to pick the area, again to stop early.
-o.bind("SUPER + SHIFT + PRINT", "Rolling screenshot", "omarchy-shell io.github.erikburdett.rollingshot capture")
