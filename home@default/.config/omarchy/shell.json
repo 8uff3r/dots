@@ -116,6 +116,9 @@
         },
         {
           "id": "omarchy.monitor"
+        },
+        {
+          "id": "omarchy.emojis"
         }
       ]
     },
