@@ -195,6 +195,9 @@
     },
     {
       "id": "cliamp"
+    },
+    {
+      "id": "io.github.claudsondouglas.arcdock"
     }
   ],
   "version": 1
