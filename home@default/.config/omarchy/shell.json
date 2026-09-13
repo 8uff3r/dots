@@ -92,6 +92,9 @@
           "id": "perfektnacht.controller-launcher"
         },
         {
+          "id": "leomoon-studios.omarchy-persian-calendar"
+        },
+        {
           "id": "io.github.terrifiedbug.omaice",
           "revealOnHover": true
         },
@@ -125,9 +128,6 @@
         },
         {
           "id": "omarchy.emojis"
-        },
-        {
-          "id": "leomoon-studios.omarchy-persian-calendar"
         }
       ]
     },
