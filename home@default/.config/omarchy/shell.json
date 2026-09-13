@@ -81,17 +81,17 @@
           "id": "omarchy.tray"
         },
         {
-          "id": "omarchy.agents"
-        },
-        {
           "id": "jrmmhm.pocket",
-          "members": "omarchy.agents"
+          "members": ""
         },
         {
           "id": "wian47.removable-drives"
         },
         {
           "id": "omaconnect"
+        },
+        {
+          "id": "omarchy.agents"
         },
         {
           "id": "stappmus.activity-monitor"
