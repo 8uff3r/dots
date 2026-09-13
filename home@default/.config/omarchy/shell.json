@@ -74,10 +74,6 @@
           "id": "omarchy.tray"
         },
         {
-          "id": "jrmmhm.pocket",
-          "members": "leomoon-studios.omarchy-persian-calendar, local.opencode-go, omarchy.agents, omamail, omakdeconnect, skvggor.omavault, perfektnacht.controller-launcher, dlpwaters.qr-generator, com.aktivesolutions.bw-vault"
-        },
-        {
           "id": "leomoon-studios.omarchy-persian-calendar",
           "format": "day-month-year"
         },
@@ -113,6 +109,10 @@
         },
         {
           "id": "stappmus.activity-monitor"
+        },
+        {
+          "id": "jrmmhm.pocket",
+          "members": "leomoon-studios.omarchy-persian-calendar, local.opencode-go, omarchy.agents, omamail, omakdeconnect, skvggor.omavault, perfektnacht.controller-launcher, dlpwaters.qr-generator, com.aktivesolutions.bw-vault"
         },
         {
           "id": "hl.peripheral_battery",
