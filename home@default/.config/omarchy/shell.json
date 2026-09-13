@@ -4,6 +4,9 @@
     "layout": {
       "center": [
         {
+          "id": "tomv.network-rate"
+        },
+        {
           "id": "omarchy.indicators"
         },
         {
@@ -70,9 +73,6 @@
       "right": [
         {
           "id": "omarchy.tray"
-        },
-        {
-          "id": "tomv.network-rate"
         },
         {
           "id": "omarchy.agents"
