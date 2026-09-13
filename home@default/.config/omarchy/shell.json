@@ -71,6 +71,10 @@
       ],
       "right": [
         {
+          "id": "jrmmhm.pocket",
+          "members": "leomoon-studios.omarchy-persian-calendar, local.opencode-go, omarchy.agents, omamail, omakdeconnect, skvggor.omavault, perfektnacht.controller-launcher, dlpwaters.qr-generator, com.aktivesolutions.bw-vault"
+        },
+        {
           "id": "omarchy.tray"
         },
         {
@@ -103,10 +107,6 @@
         },
         {
           "id": "stappmus.activity-monitor"
-        },
-        {
-          "id": "jrmmhm.pocket",
-          "members": "leomoon-studios.omarchy-persian-calendar, local.opencode-go, omarchy.agents, omamail, omakdeconnect, skvggor.omavault, perfektnacht.controller-launcher, dlpwaters.qr-generator, com.aktivesolutions.bw-vault, stappmus.activity-monitor"
         },
         {
           "id": "wian47.removable-drives"
