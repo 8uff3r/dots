@@ -116,6 +116,9 @@
           "displayStyle": "List"
         },
         {
+          "id": "omarchy.tray"
+        },
+        {
           "id": "omarchy.network"
         },
         {
