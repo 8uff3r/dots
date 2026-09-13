@@ -78,13 +78,14 @@
           "id": "omamail"
         },
         {
-          "id": "omarchy.agents"
-        },
-        {
           "id": "omarchy.tray"
         },
         {
-          "id": "jrmmhm.pocket"
+          "id": "omarchy.agents"
+        },
+        {
+          "id": "jrmmhm.pocket",
+          "members": "omarchy.agents"
         },
         {
           "id": "wian47.removable-drives"
