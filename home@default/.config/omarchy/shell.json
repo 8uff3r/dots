@@ -81,10 +81,6 @@
           "id": "local.opencode-go"
         },
         {
-          "id": "io.github.terrifiedbug.omaice",
-          "revealOnHover": true
-        },
-        {
           "id": "omarchy.agents"
         },
         {
@@ -95,6 +91,10 @@
         },
         {
           "id": "skvggor.omavault"
+        },
+        {
+          "id": "io.github.terrifiedbug.omaice",
+          "revealOnHover": true
         },
         {
           "id": "perfektnacht.controller-launcher"
