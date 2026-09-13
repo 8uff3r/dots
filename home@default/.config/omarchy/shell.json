@@ -78,6 +78,9 @@
           "id": "omarchy.tray"
         },
         {
+          "id": "stappmus.activity-monitor"
+        },
+        {
           "id": "local.opencode-go"
         },
         {
@@ -103,16 +106,13 @@
         },
         {
           "id": "jrmmhm.pocket",
-          "members": "local.opencode-go, omarchy.agents, omamail, omakdeconnect, skvggor.omavault, perfektnacht.controller-launcher, dlpwaters.qr-generator, com.aktivesolutions.bw-vault"
+          "members": "stappmus.activity-monitor, local.opencode-go, omarchy.agents, omamail, omakdeconnect, skvggor.omavault, perfektnacht.controller-launcher, dlpwaters.qr-generator, com.aktivesolutions.bw-vault"
         },
         {
           "id": "wian47.removable-drives"
         },
         {
           "id": "omaconnect"
-        },
-        {
-          "id": "stappmus.activity-monitor"
         },
         {
           "id": "hl.peripheral_battery",
