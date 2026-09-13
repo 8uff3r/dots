@@ -106,13 +106,13 @@
           "id": "com.aktivesolutions.bw-vault"
         },
         {
-          "id": "stappmus.activity-monitor"
-        },
-        {
           "id": "wian47.removable-drives"
         },
         {
           "id": "omaconnect"
+        },
+        {
+          "id": "stappmus.activity-monitor"
         },
         {
           "id": "hl.peripheral_battery",
