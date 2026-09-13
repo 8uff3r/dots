@@ -71,9 +71,6 @@
       ],
       "right": [
         {
-          "id": "com.aktivesolutions.bw-vault"
-        },
-        {
           "id": "stappmus.activity-monitor"
         },
         {
@@ -100,6 +97,9 @@
         {
           "id": "io.github.terrifiedbug.omaice",
           "revealOnHover": true
+        },
+        {
+          "id": "com.aktivesolutions.bw-vault"
         },
         {
           "id": "wian47.removable-drives"
