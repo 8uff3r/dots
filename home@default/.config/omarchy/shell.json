@@ -7,9 +7,6 @@
           "id": "cliamp"
         },
         {
-          "id": "tomv.network-rate"
-        },
-        {
           "id": "omarchy.indicators"
         },
         {
@@ -67,6 +64,9 @@
         },
         {
           "id": "io.github.silouanwright.look-elsewhere"
+        },
+        {
+          "id": "tomv.network-rate"
         }
       ],
       "right": [
