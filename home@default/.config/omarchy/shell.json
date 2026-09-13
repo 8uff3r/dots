@@ -4,6 +4,9 @@
     "layout": {
       "center": [
         {
+          "id": "cliamp"
+        },
+        {
           "id": "tomv.network-rate"
         },
         {
