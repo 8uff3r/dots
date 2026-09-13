@@ -74,7 +74,12 @@
           "id": "omarchy.tray"
         },
         {
-          "id": "david.macnook"
+          "id": "david.macnook",
+          "items": [
+            {
+              "id": "stappmus.activity-monitor"
+            }
+          ]
         },
         {
           "id": "leomoon-studios.omarchy-persian-calendar",
@@ -109,9 +114,6 @@
         },
         {
           "id": "omaconnect"
-        },
-        {
-          "id": "stappmus.activity-monitor"
         },
         {
           "id": "hl.peripheral_battery",
@@ -225,6 +227,9 @@
     },
     {
       "id": "omarchy.clipboard"
+    },
+    {
+      "id": "stappmus.activity-monitor"
     }
   ],
   "version": 1
