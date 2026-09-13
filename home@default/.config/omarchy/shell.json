@@ -71,6 +71,9 @@
       ],
       "right": [
         {
+          "id": "com.aktivesolutions.bw-vault"
+        },
+        {
           "id": "stappmus.activity-monitor"
         },
         {
