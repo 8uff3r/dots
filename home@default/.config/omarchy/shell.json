@@ -69,9 +69,6 @@
       ],
       "right": [
         {
-          "id": "perfektnacht.controller-launcher"
-        },
-        {
           "id": "omarchy.tray"
         },
         {
@@ -87,8 +84,11 @@
           "id": "skvggor.omavault"
         },
         {
+          "id": "perfektnacht.controller-launcher"
+        },
+        {
           "id": "jrmmhm.pocket",
-          "members": "omarchy.agents, omamail, omakdeconnect, skvggor.omavault"
+          "members": "omarchy.agents, omamail, omakdeconnect, skvggor.omavault, perfektnacht.controller-launcher"
         },
         {
           "id": "wian47.removable-drives"
