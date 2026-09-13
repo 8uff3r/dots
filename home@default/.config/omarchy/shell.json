@@ -69,23 +69,23 @@
       ],
       "right": [
         {
-          "id": "skvggor.omavault"
-        },
-        {
-          "id": "omakdeconnect"
-        },
-        {
-          "id": "omamail"
-        },
-        {
           "id": "omarchy.tray"
         },
         {
           "id": "omarchy.agents"
         },
         {
+          "id": "omamail"
+        },
+        {
+          "id": "omakdeconnect"
+        },
+        {
+          "id": "skvggor.omavault"
+        },
+        {
           "id": "jrmmhm.pocket",
-          "members": "omarchy.agents"
+          "members": "omarchy.agents, omamail, omakdeconnect, skvggor.omavault"
         },
         {
           "id": "wian47.removable-drives"
