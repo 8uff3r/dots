@@ -74,20 +74,6 @@
           "id": "omarchy.tray"
         },
         {
-          "id": "david.macnook",
-          "items": [
-            {
-              "id": "stappmus.activity-monitor"
-            },
-            {
-              "id": "com.aktivesolutions.bw-vault"
-            },
-            {
-              "id": "dlpwaters.qr-generator"
-            }
-          ]
-        },
-        {
           "id": "leomoon-studios.omarchy-persian-calendar",
           "format": "day-month-year"
         },
