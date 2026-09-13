@@ -72,6 +72,9 @@
       ],
       "right": [
         {
+          "id": "com.aktivesolutions.bw-vault"
+        },
+        {
           "id": "omarchy.tray"
         },
         {
