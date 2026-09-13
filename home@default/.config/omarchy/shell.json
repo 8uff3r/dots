@@ -71,6 +71,9 @@
       ],
       "right": [
         {
+          "id": "omarchy.tray"
+        },
+        {
           "id": "leomoon-studios.omarchy-persian-calendar",
           "format": "day-month-year"
         },
@@ -114,9 +117,6 @@
         {
           "id": "hl.peripheral_battery",
           "displayStyle": "List"
-        },
-        {
-          "id": "omarchy.tray"
         },
         {
           "id": "omarchy.network"
