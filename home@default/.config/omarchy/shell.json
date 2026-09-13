@@ -74,6 +74,9 @@
           "id": "omarchy.tray"
         },
         {
+          "id": "stappmus.activity-monitor"
+        },
+        {
           "id": "leomoon-studios.omarchy-persian-calendar",
           "format": "day-month-year"
         },
@@ -213,9 +216,6 @@
     },
     {
       "id": "omarchy.clipboard"
-    },
-    {
-      "id": "stappmus.activity-monitor"
     }
   ],
   "version": 1
