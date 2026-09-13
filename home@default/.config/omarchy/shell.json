@@ -57,6 +57,9 @@
           "id": "omarchy.keyboard-layout"
         },
         {
+          "id": "reidenxerx.keyboard-layout-per-app"
+        },
+        {
           "id": "omarchy.menu"
         },
         {
@@ -132,9 +135,6 @@
         },
         {
           "id": "omarchy.emojis"
-        },
-        {
-          "id": "reidenxerx.keyboard-layout-per-app"
         }
       ]
     },
