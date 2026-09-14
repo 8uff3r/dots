@@ -54,10 +54,10 @@
           "id": "reidenxerx.keyboard-layout-per-app"
         },
         {
-          "id": "omarchy.menu"
+          "id": "omarchy.workspaces"
         },
         {
-          "id": "omarchy.workspaces"
+          "id": "evindor.keystroke"
         },
         {
           "id": "agx.screen-time"
@@ -144,11 +144,13 @@
   "cloneSourceRestores": [
     "matjam.omawall",
     "famas.media-plus",
-    "io.github.sirjul1337.lock-explorer"
+    "io.github.sirjul1337.lock-explorer",
+    "evindor.keystroke"
   ],
   "disabledPlugins": [
     "omarchy.media",
-    "omarchy.lock"
+    "omarchy.lock",
+    "omarchy.menu"
   ],
   "idle": {
     "lock": 300,
