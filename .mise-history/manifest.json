@@ -105,6 +105,7 @@
   "exclude": [],
   "recipients": [],
   "permissions": {
-    "home/.config/zed/settings.json": 384
+    "home/.config/zed/settings.json": 384,
+    "home@default/.config/omarchy/shell.json": 384
   }
 }

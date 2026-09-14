@@ -16,25 +16,25 @@
           "id": "pick.screenshot"
         },
         {
-          "id": "quickshell.spotify",
+          "audioQuality": "320 kbps",
           "deviceName": "Omarchy Spotify",
+          "id": "quickshell.spotify",
           "idleShutdownMinutes": 15,
-          "showMiniPlayer": "On",
-          "shortcutPlayer": "Omarchy Music app",
-          "shortcutHints": "On",
-          "showTrackTitle": "On",
-          "showArtistName": "Off",
-          "showPausedTrack": "On",
+          "maxBarTextWidth": "240",
           "scrollBarText": "Off",
           "scrollSpeed": "1",
-          "maxBarTextWidth": "240",
-          "audioQuality": "320 kbps"
+          "shortcutHints": "On",
+          "shortcutPlayer": "Omarchy Music app",
+          "showArtistName": "Off",
+          "showMiniPlayer": "On",
+          "showPausedTrack": "On",
+          "showTrackTitle": "On"
         },
         {
-          "id": "omarchy.clock",
           "birthYear": 2000,
           "format": "ddd d MMM HH:mm",
           "formatAlt": "d MMMM 'W'ww yyyy",
+          "id": "omarchy.clock",
           "lifeExpectancy": 60,
           "verticalFormat": "HH\n—\nmm"
         },
@@ -99,8 +99,8 @@
         },
         {
           "id": "io.github.terrifiedbug.omaice",
-          "revealOnHover": true,
-          "revealMode": "inline"
+          "revealMode": "inline",
+          "revealOnHover": true
         },
         {
           "id": "wian47.removable-drives"
@@ -109,8 +109,8 @@
           "id": "omaconnect"
         },
         {
-          "id": "hl.peripheral_battery",
-          "displayStyle": "List"
+          "displayStyle": "List",
+          "id": "hl.peripheral_battery"
         },
         {
           "id": "omarchy.network"
@@ -136,7 +136,7 @@
       ]
     },
     "position": "top",
-    "transparent": false
+    "transparent": true
   },
   "cloneSourceRestores": [
     "matjam.omawall",
