@@ -10,6 +10,7 @@ mr-boxington = "latest"
 "npm:@xai-official/grok" = "latest"
 opencode = "latest"
 pi = "latest"
+uv = "latest"
 
 [dotfiles]
 "~/.config/alacritty" = { mode = "track" }
