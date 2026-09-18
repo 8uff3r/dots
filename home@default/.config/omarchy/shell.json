@@ -77,9 +77,6 @@
           "id": "local.opencode-go"
         },
         {
-          "id": "stappmus.activity-monitor"
-        },
-        {
           "id": "omarchy.agents"
         },
         {
@@ -107,6 +104,9 @@
         },
         {
           "id": "omaconnect"
+        },
+        {
+          "id": "stappmus.activity-monitor"
         },
         {
           "displayStyle": "List",
