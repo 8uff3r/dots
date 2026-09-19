@@ -228,6 +228,9 @@
     },
     {
       "id": "omadock"
+    },
+    {
+      "id": "io.github.maajix.spotlight"
     }
   ],
   "version": 1
