@@ -222,7 +222,8 @@
       "id": "nagualcode.thetinybuttons"
     },
     {
-      "id": "io.github.sirjul1337.lock-explorer"
+      "id": "io.github.sirjul1337.lock-explorer",
+      "design": "poster"
     },
     {
       "id": "omadock"
