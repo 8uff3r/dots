@@ -54,7 +54,7 @@
           "id": "reidenxerx.keyboard-layout-per-app"
         },
         {
-          "id": "evindor.keystroke"
+          "id": "omarchy.menu"
         },
         {
           "id": "omarchy.workspaces"
@@ -145,13 +145,11 @@
   "cloneSourceRestores": [
     "matjam.omawall",
     "famas.media-plus",
-    "io.github.sirjul1337.lock-explorer",
-    "evindor.keystroke"
+    "io.github.sirjul1337.lock-explorer"
   ],
   "disabledPlugins": [
     "omarchy.media",
-    "omarchy.lock",
-    "omarchy.menu"
+    "omarchy.lock"
   ],
   "idle": {
     "lock": 300,
