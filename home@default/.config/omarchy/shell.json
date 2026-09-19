@@ -223,7 +223,7 @@
     },
     {
       "id": "io.github.sirjul1337.lock-explorer",
-      "design": "editorial",
+      "design": "constellation",
       "boot": "snapshot:pond"
     },
     {
