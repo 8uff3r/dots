@@ -223,7 +223,8 @@
     },
     {
       "id": "io.github.sirjul1337.lock-explorer",
-      "design": "pond"
+      "design": "pond",
+      "boot": "storm"
     },
     {
       "id": "omadock"
