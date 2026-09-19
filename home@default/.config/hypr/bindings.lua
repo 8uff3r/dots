@@ -331,3 +331,7 @@ o.window("com.thisisgm.flea.picker", { tag = "+floating-window" })
 -- RollingShot (io.github.erikburdett.rollingshot): capture a whole scrolling page.
 -- Press once to pick the area, again to stop early.
 o.bind("SUPER + SHIFT + PRINT", "Rolling screenshot", "omarchy-shell io.github.erikburdett.rollingshot capture")
+
+-- >>> spotlight setup tour (managed; rerun via "Run Setup Tour") >>>
+o.bind("ALT + SPACE", "Spotlight", "omarchy-shell shell toggle io.github.maajix.spotlight '{}'")
+-- <<< spotlight setup tour <<<
