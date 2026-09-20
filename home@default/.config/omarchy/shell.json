@@ -139,7 +139,7 @@
         }
       ]
     },
-    "position": "bottom",
+    "position": "top",
     "transparent": true
   },
   "cloneSourceRestores": [
