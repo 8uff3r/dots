@@ -227,11 +227,11 @@ local binds = {
     ---- OMARCHY Bindings ----
     --------------------------
     -- Bindings copied over (with modifications to the keybinds) from Omarchy default bindings
-    -- {
-    --     "ALT + X",
-    --     "Omarchy menu",
-    --     "omarchy-menu toggle root",
-    -- },
+    {
+        "ALT + X",
+        "Omarchy menu",
+        "omarchy-menu toggle root",
+    },
     {
         "SUPER + R",
         "Omarchy menu",
