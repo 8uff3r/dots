@@ -157,9 +157,6 @@
   },
   "plugins": [
     {
-      "id": "b.okomart"
-    },
-    {
       "id": "shell.settings"
     },
     {
