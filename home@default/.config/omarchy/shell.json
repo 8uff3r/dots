@@ -97,7 +97,8 @@
           "id": "com.aktivesolutions.bw-vault"
         },
         {
-          "id": "io.github.terrifiedbug.omaice"
+          "id": "io.github.terrifiedbug.omaice",
+          "revealOnHover": true
         },
         {
           "id": "wian47.removable-drives"
