@@ -60,7 +60,8 @@
           "id": "omaplug"
         },
         {
-          "id": "io.github.juancasanueva.plugin-manager"
+          "id": "io.github.juancasanueva.plugin-manager",
+          "allowUnverifiedInstalls": true
         },
         {
           "id": "omarchy.workspaces"
