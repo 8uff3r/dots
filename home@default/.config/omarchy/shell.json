@@ -61,7 +61,8 @@
         },
         {
           "id": "io.github.juancasanueva.plugin-manager",
-          "allowUnverifiedInstalls": true
+          "allowUnverifiedInstalls": true,
+          "allowUnverifiedUpdates": true
         },
         {
           "id": "omarchy.workspaces"
