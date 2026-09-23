@@ -57,9 +57,6 @@
           "id": "omarchy.menu"
         },
         {
-          "id": "omaplug"
-        },
-        {
           "id": "io.github.juancasanueva.plugin-manager",
           "allowUnverifiedUpdates": true,
           "tiledExpandedPanel": true
