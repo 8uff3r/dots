@@ -106,10 +106,6 @@
           "id": "omaconnect"
         },
         {
-          "id": "stappmus.activity-monitor",
-          "openExpanded": true
-        },
-        {
           "displayStyle": "List",
           "id": "hl.peripheral_battery"
         },
@@ -136,6 +132,10 @@
         },
         {
           "id": "io.github.decadentsavant.bookmark-everything"
+        },
+        {
+          "id": "stappmus.activity-monitor",
+          "openExpanded": true
         }
       ]
     },
