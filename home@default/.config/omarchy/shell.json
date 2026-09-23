@@ -100,10 +100,6 @@
           "id": "omarchy.tray"
         },
         {
-          "id": "io.github.baranskyi.omafold",
-          "exclude": "omarchy.tray"
-        },
-        {
           "id": "wian47.removable-drives"
         },
         {
