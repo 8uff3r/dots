@@ -99,7 +99,10 @@
         {
           "id": "io.github.terrifiedbug.omaice",
           "revealOnHover": true,
-          "revealMode": "row"
+          "revealMode": "row",
+          "alwaysHidden": [
+            "leomoon-studios.omarchy-persian-calendar"
+          ]
         },
         {
           "id": "wian47.removable-drives"
