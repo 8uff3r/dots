@@ -60,10 +60,10 @@
           "id": "omaplug"
         },
         {
-          "id": "omarchy.workspaces"
+          "id": "io.github.juancasanueva.plugin-manager"
         },
         {
-          "id": "io.github.juancasanueva.plugin-manager"
+          "id": "omarchy.workspaces"
         },
         {
           "id": "agx.screen-time"
