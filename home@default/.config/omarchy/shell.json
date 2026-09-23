@@ -96,11 +96,11 @@
         {
           "id": "com.aktivesolutions.bw-vault"
         },
-        // {
-        //   "id": "io.github.terrifiedbug.omaice",
-        //   "revealMode": "inline",
-        //   "revealOnHover": true
-        // },
+        {
+          "id": "io.github.terrifiedbug.omaice",
+          "revealMode": "inline",
+          "revealOnHover": true
+        },
         {
           "id": "wian47.removable-drives"
         },
