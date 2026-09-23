@@ -61,7 +61,6 @@
         },
         {
           "id": "io.github.juancasanueva.plugin-manager",
-          "allowUnverifiedInstalls": true,
           "allowUnverifiedUpdates": true
         },
         {
