@@ -133,6 +133,9 @@
         {
           "id": "stappmus.activity-monitor",
           "openExpanded": true
+        },
+        {
+          "id": "io.github.baranskyi.omafold"
         }
       ]
     },
