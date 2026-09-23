@@ -97,6 +97,9 @@
           "id": "com.aktivesolutions.bw-vault"
         },
         {
+          "id": "io.github.baranskyi.omafold"
+        },
+        {
           "id": "wian47.removable-drives"
         },
         {
@@ -133,9 +136,6 @@
         {
           "id": "stappmus.activity-monitor",
           "openExpanded": true
-        },
-        {
-          "id": "io.github.baranskyi.omafold"
         }
       ]
     },
