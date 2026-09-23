@@ -13,9 +13,6 @@
           "id": "omarchy.weather"
         },
         {
-          "id": "omarchy.tray"
-        },
-        {
           "id": "pick.screenshot"
         },
         {
@@ -98,6 +95,9 @@
         },
         {
           "id": "com.aktivesolutions.bw-vault"
+        },
+        {
+          "id": "omarchy.tray"
         },
         {
           "id": "io.github.baranskyi.omafold"
