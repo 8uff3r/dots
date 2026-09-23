@@ -100,7 +100,11 @@
           "id": "io.github.terrifiedbug.omaice",
           "revealOnHover": true,
           "revealMode": "inline",
-          "alwaysHidden": []
+          "alwaysHidden": [],
+          "pinned": [],
+          "hidden": [
+            "blueman"
+          ]
         },
         {
           "id": "wian47.removable-drives"
