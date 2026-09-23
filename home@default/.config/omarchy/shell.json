@@ -104,7 +104,8 @@
           "pinned": [],
           "hidden": [
             "blueman"
-          ]
+          ],
+          "icon": "dot"
         },
         {
           "id": "wian47.removable-drives"
