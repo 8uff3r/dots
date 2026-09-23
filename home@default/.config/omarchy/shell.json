@@ -99,7 +99,7 @@
         {
           "id": "io.github.terrifiedbug.omaice",
           "revealOnHover": true,
-          "revealMode": "row",
+          "revealMode": "inline",
           "alwaysHidden": []
         },
         {
