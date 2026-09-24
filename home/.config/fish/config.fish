@@ -97,3 +97,4 @@ source ~/.config/.env
 # Added by Antigravity CLI installer
 set -gx PATH "/home/rylan/.local/bin" $PATH
 atuin init fish --disable-up-arrow | source
+alias cargo="mbx"
