@@ -69,6 +69,9 @@
         },
         {
           "id": "tomv.network-rate"
+        },
+        {
+          "id": "flux"
         }
       ],
       "right": [
@@ -141,9 +144,6 @@
         {
           "id": "stappmus.activity-monitor",
           "openExpanded": true
-        },
-        {
-          "id": "flux"
         }
       ]
     },
