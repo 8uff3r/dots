@@ -145,7 +145,7 @@
       ]
     },
     "position": "top",
-    "transparent": false
+    "transparent": true
   },
   "cloneSourceRestores": [
     "matjam.omawall",
