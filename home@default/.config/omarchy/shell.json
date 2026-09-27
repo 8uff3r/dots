@@ -62,13 +62,13 @@
           "tiledExpandedPanel": true
         },
         {
-          "id": "omarchy.workspaces"
-        },
-        {
           "id": "agx.screen-time"
         },
         {
           "id": "tomv.network-rate"
+        },
+        {
+          "id": "omarchy.workspaces"
         }
       ],
       "right": [
