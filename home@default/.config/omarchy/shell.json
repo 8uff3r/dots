@@ -60,6 +60,9 @@
           "id": "omarchy.workspaces"
         },
         {
+          "id": "tornikegomareli.spaces"
+        },
+        {
           "id": "io.github.juancasanueva.plugin-manager",
           "allowUnverifiedUpdates": true,
           "tiledExpandedPanel": true
@@ -141,9 +144,6 @@
         {
           "id": "stappmus.activity-monitor",
           "openExpanded": true
-        },
-        {
-          "id": "tornikegomareli.spaces"
         }
       ]
     },
