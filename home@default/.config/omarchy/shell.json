@@ -138,6 +138,9 @@
         {
           "id": "stappmus.activity-monitor",
           "openExpanded": true
+        },
+        {
+          "id": "flux"
         }
       ]
     },
