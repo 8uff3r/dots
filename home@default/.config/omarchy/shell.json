@@ -57,12 +57,12 @@
           "id": "omarchy.menu"
         },
         {
-          "id": "tornikegomareli.spaces"
-        },
-        {
           "id": "io.github.juancasanueva.plugin-manager",
           "allowUnverifiedUpdates": true,
           "tiledExpandedPanel": true
+        },
+        {
+          "id": "tornikegomareli.spaces"
         },
         {
           "id": "agx.screen-time"
