@@ -70,7 +70,8 @@
           "activeStyle": "subtle",
           "density": "compact",
           "settingsButton": "hover",
-          "middleClickClose": true
+          "middleClickClose": true,
+          "maxIcons": 9
         },
         {
           "id": "agx.screen-time"
