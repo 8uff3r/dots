@@ -62,7 +62,8 @@
           "tiledExpandedPanel": true
         },
         {
-          "id": "tornikegomareli.spaces"
+          "id": "tornikegomareli.spaces",
+          "iconStyle": "color"
         },
         {
           "id": "agx.screen-time"
