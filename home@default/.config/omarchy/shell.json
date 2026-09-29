@@ -63,7 +63,8 @@
         },
         {
           "id": "tornikegomareli.spaces",
-          "iconStyle": "color"
+          "iconStyle": "color",
+          "focusedTitle": true
         },
         {
           "id": "agx.screen-time"
