@@ -68,7 +68,7 @@
           "previewSize": "small",
           "labelStyle": "number",
           "activeStyle": "subtle",
-          "density": "compact"
+          "density": "roomy"
         },
         {
           "id": "agx.screen-time"
