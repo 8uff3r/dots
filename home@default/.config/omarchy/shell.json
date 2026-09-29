@@ -68,7 +68,8 @@
           "previewSize": "small",
           "labelStyle": "number",
           "activeStyle": "subtle",
-          "density": "compact"
+          "density": "compact",
+          "settingsButton": "hover"
         },
         {
           "id": "agx.screen-time"
