@@ -65,7 +65,8 @@
           "id": "tornikegomareli.spaces",
           "iconStyle": "color",
           "focusedTitle": false,
-          "previewSize": "small"
+          "previewSize": "small",
+          "labelStyle": "number"
         },
         {
           "id": "agx.screen-time"
