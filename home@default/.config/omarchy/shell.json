@@ -69,7 +69,8 @@
           "labelStyle": "number",
           "activeStyle": "subtle",
           "density": "compact",
-          "settingsButton": "hover"
+          "settingsButton": "hover",
+          "middleClickClose": true
         },
         {
           "id": "agx.screen-time"
