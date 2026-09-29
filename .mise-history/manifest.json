@@ -105,6 +105,8 @@
   "exclude": [],
   "recipients": [],
   "permissions": {
+    "home/.config": 448,
+    "home/.config/systemd/user": 448,
     "home/.config/zed/settings.json": 384,
     "home@default/.config/hypr/bindings.lua": 384,
     "home@default/.config/hypr/strata-keybind-backup-zLspeO": 384,
