@@ -31,14 +31,6 @@
           "showTrackTitle": "On"
         },
         {
-          "birthYear": 2000,
-          "format": "ddd d MMM HH:mm",
-          "formatAlt": "d MMMM 'W'ww yyyy",
-          "id": "omarchy.clock",
-          "lifeExpectancy": 60,
-          "verticalFormat": "HH\n—\nmm"
-        },
-        {
           "id": "famas.media-plus"
         },
         {
@@ -47,6 +39,14 @@
         },
         {
           "id": "omarchy.system-update"
+        },
+        {
+          "birthYear": 2000,
+          "format": "ddd d MMM HH:mm",
+          "formatAlt": "d MMMM 'W'ww yyyy",
+          "id": "omarchy.clock",
+          "lifeExpectancy": 60,
+          "verticalFormat": "HH\n—\nmm"
         }
       ],
       "left": [
