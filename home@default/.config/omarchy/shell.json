@@ -154,7 +154,8 @@
       ]
     },
     "position": "top",
-    "transparent": true
+    "transparent": true,
+    "id": "pix.bar"
   },
   "cloneSourceRestores": [
     "matjam.omawall",
