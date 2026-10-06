@@ -62,6 +62,9 @@
           "tiledExpandedPanel": true
         },
         {
+          "id": "agx.screen-time"
+        },
+        {
           "id": "tornikegomareli.spaces",
           "iconStyle": "color",
           "focusedTitle": false,
@@ -72,9 +75,6 @@
           "settingsButton": "hover",
           "middleClickClose": true,
           "maxIcons": 9
-        },
-        {
-          "id": "agx.screen-time"
         },
         {
           "id": "tomv.network-rate"
