@@ -230,9 +230,6 @@
       "id": "omarchy.clipboard"
     },
     {
-      "id": "nagualcode.thetinybuttons"
-    },
-    {
       "id": "io.github.sirjul1337.lock-explorer",
       "design": "constellation",
       "boot": "snapshot:pond"
