@@ -58,8 +58,7 @@
         },
         {
           "id": "io.github.juancasanueva.plugin-manager",
-          "allowUnverifiedUpdates": true,
-          "tiledExpandedPanel": true
+          "allowUnverifiedUpdates": true
         },
         {
           "id": "agx.screen-time"
