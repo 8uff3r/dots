@@ -1,6 +1,5 @@
 [tools]
 bun = "latest"
-cargo-binstall = "latest"
 claude = "latest"
 codex = "latest"
 crush = "latest"
