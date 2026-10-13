@@ -150,6 +150,9 @@
         },
         {
           "id": "flux"
+        },
+        {
+          "id": "io.github.s3pp3ku.kyber-cursor"
         }
       ]
     },
