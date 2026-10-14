@@ -31,9 +31,6 @@
           "showTrackTitle": "On"
         },
         {
-          "id": "famas.media-plus"
-        },
-        {
           "id": "esegnorelli.omacapy",
           "panelSide": "center"
         },
@@ -47,6 +44,9 @@
           "id": "omarchy.clock",
           "lifeExpectancy": 60,
           "verticalFormat": "HH\n—\nmm"
+        },
+        {
+          "id": "famas.media-plus"
         }
       ],
       "left": [
