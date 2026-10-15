@@ -7,9 +7,6 @@
           "id": "cliamp"
         },
         {
-          "id": "omarchy.indicators"
-        },
-        {
           "id": "omarchy.weather"
         },
         {
@@ -47,6 +44,9 @@
         },
         {
           "id": "famas.media-plus"
+        },
+        {
+          "id": "omarchy.indicators"
         }
       ],
       "left": [
