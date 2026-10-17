@@ -13,6 +13,9 @@
           "id": "pick.screenshot"
         },
         {
+          "id": "omarchy.indicators"
+        },
+        {
           "audioQuality": "320 kbps",
           "deviceName": "Omarchy Spotify",
           "id": "quickshell.spotify",
@@ -44,9 +47,6 @@
         },
         {
           "id": "famas.media-plus"
-        },
-        {
-          "id": "omarchy.indicators"
         }
       ],
       "left": [
