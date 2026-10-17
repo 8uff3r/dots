@@ -10,9 +10,6 @@
           "id": "omarchy.weather"
         },
         {
-          "id": "pick.screenshot"
-        },
-        {
           "id": "omarchy.indicators"
         },
         {
@@ -47,6 +44,9 @@
         },
         {
           "id": "famas.media-plus"
+        },
+        {
+          "id": "pick.screenshot"
         }
       ],
       "left": [
