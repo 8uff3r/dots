@@ -133,6 +133,7 @@ local rules = {
         idle_inhibit = "always",
         fullscreen = true,
         workspace = 4,
+        render_unfocused = true,
     },
 
     {
