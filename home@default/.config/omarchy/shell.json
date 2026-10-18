@@ -51,6 +51,18 @@
       ],
       "left": [
         {
+          "id": "tornikegomareli.spaces",
+          "iconStyle": "color",
+          "focusedTitle": false,
+          "previewSize": "small",
+          "labelStyle": "number",
+          "activeStyle": "subtle",
+          "density": "compact",
+          "settingsButton": "hover",
+          "middleClickClose": true,
+          "maxIcons": 9
+        },
+        {
           "id": "reidenxerx.keyboard-layout-per-app"
         },
         {
@@ -63,18 +75,6 @@
         },
         {
           "id": "agx.screen-time"
-        },
-        {
-          "id": "tornikegomareli.spaces",
-          "iconStyle": "color",
-          "focusedTitle": false,
-          "previewSize": "small",
-          "labelStyle": "number",
-          "activeStyle": "subtle",
-          "density": "compact",
-          "settingsButton": "hover",
-          "middleClickClose": true,
-          "maxIcons": 9
         },
         {
           "id": "tomv.network-rate"
