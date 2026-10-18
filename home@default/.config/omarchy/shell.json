@@ -51,6 +51,9 @@
       ],
       "left": [
         {
+          "id": "reidenxerx.keyboard-layout-per-app"
+        },
+        {
           "id": "tornikegomareli.spaces",
           "iconStyle": "color",
           "focusedTitle": false,
@@ -61,9 +64,6 @@
           "settingsButton": "hover",
           "middleClickClose": true,
           "maxIcons": 9
-        },
-        {
-          "id": "reidenxerx.keyboard-layout-per-app"
         },
         {
           "id": "omarchy.menu"
