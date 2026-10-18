@@ -54,6 +54,9 @@
           "id": "reidenxerx.keyboard-layout-per-app"
         },
         {
+          "id": "omarchy.menu"
+        },
+        {
           "id": "tornikegomareli.spaces",
           "iconStyle": "color",
           "focusedTitle": false,
@@ -64,9 +67,6 @@
           "settingsButton": "hover",
           "middleClickClose": true,
           "maxIcons": 9
-        },
-        {
-          "id": "omarchy.menu"
         },
         {
           "id": "io.github.juancasanueva.plugin-manager",
