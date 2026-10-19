@@ -11,6 +11,7 @@ mr-boxington = "latest"
 "npm:@xai-official/grok" = "latest"
 opencode = "latest"
 pi = "latest"
+pitchfork = { version = "latest", workflow = "release.yml@refs/heads/main" }
 uv = "latest"
 
 [dotfiles]
