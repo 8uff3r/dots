@@ -50,8 +50,8 @@
           "id": "omarchy.elsewhen",
           "cities": [
             {
-              "name": "New York",
-              "zone": "America/New_York"
+              "name": "Pacific",
+              "zone": "US/Pacific"
             }
           ]
         },
