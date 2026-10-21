@@ -47,7 +47,6 @@
       ],
       "centerEnd": [
         {
-          "id": "omarchy.elsewhen",
           "cities": [
             {
               "name": "Pacific",
@@ -57,7 +56,8 @@
               "name": "Eastern",
               "zone": "US/Eastern"
             }
-          ]
+          ],
+          "id": "omarchy.elsewhen"
         },
         {
           "id": "famas.media-plus"
@@ -159,6 +159,9 @@
     "omarchy.media",
     "omarchy.lock"
   ],
+  "dock": {
+    "autohide": true
+  },
   "idle": {
     "lock": 300,
     "screensaver": 150
