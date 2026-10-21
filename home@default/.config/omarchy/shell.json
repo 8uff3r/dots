@@ -47,29 +47,21 @@
       ],
       "centerEnd": [
         {
+          "id": "omarchy.elsewhen",
           "cities": [
             {
               "name": "Berlin",
               "zone": "Europe/Berlin"
             },
             {
-              "name": "Delhi",
-              "zone": "Asia/Kolkata"
-            },
-            {
               "name": "Tokyo",
               "zone": "Asia/Tokyo"
-            },
-            {
-              "name": "Los Angeles",
-              "zone": "America/Los_Angeles"
             },
             {
               "name": "New York",
               "zone": "America/New_York"
             }
-          ],
-          "id": "omarchy.elsewhen"
+          ]
         },
         {
           "id": "famas.media-plus"
