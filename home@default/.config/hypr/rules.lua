@@ -365,6 +365,7 @@ local layer_rules = {
     { match = { namespace = "logout_dialog" }, animation = "fade" },
     { match = { namespace = "selection" },     animation = "fade" },
     { match = { namespace = "wayfreeze" },     animation = "fade" },
+    { match = { float = true },                group = "deny" },
 
     -- Fuzzel
     { match = { namespace = "launcher" },      animation = "popin 80%", blur = true },
