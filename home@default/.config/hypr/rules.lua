@@ -355,7 +355,6 @@ local rules = {
         size = "0 0",
         float = true,
     },
-    { match = { float = true },                                                         group = "deny" },
 }
 
 ---@type HL.LayerRuleSpec[]
