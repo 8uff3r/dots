@@ -160,7 +160,7 @@
     "omarchy.lock"
   ],
   "dock": {
-    "autohide": true
+    "autohide": false
   },
   "idle": {
     "lock": 300,
