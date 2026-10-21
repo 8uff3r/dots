@@ -235,7 +235,6 @@ local binds = {
     {
         "SUPER + R",
         "Omarchy menu",
-        -- "omarchy-menu toggle apps",
         "omarchy menu toggle apps"
     },
     {
