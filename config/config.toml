@@ -41,4 +41,3 @@ builtin = "history-watch"
 "pacman:omarchy/heroic-games-launcher-bin" = "latest"
 
 [settings.upgrade]
-auto_prune = false
