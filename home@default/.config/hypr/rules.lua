@@ -2,7 +2,7 @@
 local rules = {
     -- Group
     { match = { class = ".*", float = 0 },                       group = "set" },
-    -- { match = { float = true },                                  group = "deny" },
+    { match = { float = true },                                  group = "deny" },
 
     { match = { class = "org.omarchy.terminal", group = "deny" } },
     -- No shadow for tiled windows
