@@ -98,9 +98,9 @@
           "density": "compact",
           "settingsButton": "hover",
           "middleClickClose": true,
-          "maxIcons": 9,
+          "maxIcons": 12,
           "iconSize": 16,
-          "persistentWorkspaces": 5
+          "persistentWorkspaces": 7
         },
         {
           "allowUnverifiedUpdates": true,
