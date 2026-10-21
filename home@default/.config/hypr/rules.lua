@@ -414,3 +414,7 @@ o.bind("ALT + TAB", "Focus on next window", hl.dsp.window.cycle_next())
 o.bind("ALT + SHIFT + TAB", "Focus on previous window", hl.dsp.window.cycle_next({ next = false }))
 o.bind("ALT + TAB", "Reveal active window on top", hl.dsp.window.bring_to_top())
 o.bind("ALT + SHIFT + TAB", "Reveal active window on top", hl.dsp.window.bring_to_top())
+
+o.bind("SUPER + grave", "Toggle scratchpad", hl.dsp.workspace.toggle_special("scratchpad"))
+o.bind("SUPER + SHIFT + grave", "Move window to scratchpad",
+    hl.dsp.window.move({ workspace = "special:scratchpad", follow = false }))
