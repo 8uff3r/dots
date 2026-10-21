@@ -99,7 +99,8 @@
           "settingsButton": "hover",
           "middleClickClose": true,
           "maxIcons": 9,
-          "iconSize": 16
+          "iconSize": 16,
+          "persistentWorkspaces": 5
         },
         {
           "allowUnverifiedUpdates": true,
