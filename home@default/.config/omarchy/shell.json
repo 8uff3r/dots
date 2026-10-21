@@ -52,6 +52,10 @@
             {
               "name": "Pacific",
               "zone": "US/Pacific"
+            },
+            {
+              "name": "Eastern",
+              "zone": "US/Eastern"
             }
           ]
         },
