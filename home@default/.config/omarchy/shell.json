@@ -47,6 +47,9 @@
       ],
       "centerEnd": [
         {
+          "id": "omarchy.workspaces"
+        },
+        {
           "cities": [
             {
               "name": "Berlin",
@@ -76,9 +79,6 @@
         },
         {
           "id": "pick.screenshot"
-        },
-        {
-          "id": "omarchy.workspaces"
         }
       ],
       "left": [
