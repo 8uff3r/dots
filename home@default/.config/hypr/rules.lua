@@ -409,3 +409,8 @@ hl.layer_rule({
     blur = true,
     ignore_alpha = 0.4,
 })
+
+o.bind("ALT + TAB", "Focus on next window", hl.dsp.window.cycle_next())
+o.bind("ALT + SHIFT + TAB", "Focus on previous window", hl.dsp.window.cycle_next({ next = false }))
+o.bind("ALT + TAB", "Reveal active window on top", hl.dsp.window.bring_to_top())
+o.bind("ALT + SHIFT + TAB", "Reveal active window on top", hl.dsp.window.bring_to_top())
