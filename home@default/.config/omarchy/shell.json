@@ -47,9 +47,6 @@
       ],
       "centerEnd": [
         {
-          "id": "omarchy.workspaces"
-        },
-        {
           "cities": [
             {
               "name": "Berlin",
@@ -109,6 +106,9 @@
         },
         {
           "id": "agx.screen-time"
+        },
+        {
+          "id": "omarchy.workspaces"
         },
         {
           "id": "tomv.network-rate"
