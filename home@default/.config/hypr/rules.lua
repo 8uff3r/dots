@@ -392,8 +392,17 @@ for _, value in ipairs(layer_rules) do
 end
 
 for _, value in ipairs(rules) do
+    if value.float == true and (not value.group or value.group == "deny") then
+        value.group = "override deny"
+    end
     hl.window_rule(value)
 end
+
+hl.on("window.open", function(w)
+    if w.floating and w.group then
+        w.group:remove(w)
+    end
+end)
 
 hl.workspace_rule({ workspace = "special:special", gaps_out = 50, layout = "scrolling" })
 
