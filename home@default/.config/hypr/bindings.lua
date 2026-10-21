@@ -228,7 +228,8 @@ local binds = {
     --------------------------
     -- Bindings copied over (with modifications to the keybinds) from Omarchy default bindings
     { "SUPER + ALT + L",
-        "Change layout", "omarchy hyprland workspace layout toggle" },
+        "Change layout",
+        "omarchy hyprland workspace layout toggle" },
 
     {
         "ALT + X",
