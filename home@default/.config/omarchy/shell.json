@@ -89,20 +89,6 @@
           "id": "omarchy.workspaces"
         },
         {
-          "id": "tornikegomareli.spaces",
-          "iconStyle": "color",
-          "focusedTitle": false,
-          "previewSize": "small",
-          "labelStyle": "number",
-          "activeStyle": "subtle",
-          "density": "compact",
-          "settingsButton": "hover",
-          "middleClickClose": true,
-          "maxIcons": 12,
-          "iconSize": 16,
-          "persistentWorkspaces": 7
-        },
-        {
           "allowUnverifiedUpdates": true,
           "id": "io.github.juancasanueva.plugin-manager",
           "tiledExpandedPanel": true
