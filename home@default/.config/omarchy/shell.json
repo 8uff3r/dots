@@ -1,5 +1,6 @@
 {
   "bar": {
+    "background": "none",
     "layout": {
       "center": [
         {
@@ -11,6 +12,72 @@
           "verticalFormat": "HH\n—\nmm"
         }
       ],
+      "centerBegin": [
+        {
+          "id": "cliamp"
+        },
+        {
+          "id": "omarchy.weather"
+        },
+        {
+          "id": "omarchy.indicators"
+        },
+        {
+          "audioQuality": "320 kbps",
+          "deviceName": "Omarchy Spotify",
+          "id": "quickshell.spotify",
+          "idleShutdownMinutes": 15,
+          "maxBarTextWidth": "240",
+          "scrollBarText": "Off",
+          "scrollSpeed": "1",
+          "shortcutHints": "On",
+          "shortcutPlayer": "Omarchy Music app",
+          "showArtistName": "Off",
+          "showMiniPlayer": "On",
+          "showPausedTrack": "On",
+          "showTrackTitle": "On"
+        },
+        {
+          "id": "esegnorelli.omacapy",
+          "panelSide": "center"
+        },
+        {
+          "id": "omarchy.system-update"
+        }
+      ],
+      "centerEnd": [
+        {
+          "cities": [
+            {
+              "name": "Berlin",
+              "zone": "Europe/Berlin"
+            },
+            {
+              "name": "Delhi",
+              "zone": "Asia/Kolkata"
+            },
+            {
+              "name": "Tokyo",
+              "zone": "Asia/Tokyo"
+            },
+            {
+              "name": "Los Angeles",
+              "zone": "America/Los_Angeles"
+            },
+            {
+              "name": "New York",
+              "zone": "America/New_York"
+            }
+          ],
+          "id": "omarchy.elsewhen"
+        },
+        {
+          "id": "famas.media-plus"
+        },
+        {
+          "id": "pick.screenshot"
+        }
+      ],
       "left": [
         {
           "id": "reidenxerx.keyboard-layout-per-app"
@@ -19,20 +86,20 @@
           "id": "omarchy.menu"
         },
         {
-          "id": "tornikegomareli.spaces",
-          "iconStyle": "color",
-          "focusedTitle": false,
-          "previewSize": "small",
-          "labelStyle": "number",
           "activeStyle": "subtle",
           "density": "compact",
-          "settingsButton": "hover",
+          "focusedTitle": false,
+          "iconStyle": "color",
+          "id": "tornikegomareli.spaces",
+          "labelStyle": "number",
+          "maxIcons": 9,
           "middleClickClose": true,
-          "maxIcons": 9
+          "previewSize": "small",
+          "settingsButton": "hover"
         },
         {
-          "id": "io.github.juancasanueva.plugin-manager",
           "allowUnverifiedUpdates": true,
+          "id": "io.github.juancasanueva.plugin-manager",
           "tiledExpandedPanel": true
         },
         {
@@ -103,76 +170,9 @@
           "id": "flux"
         }
       ],
-      "centerBegin": [
-        {
-          "id": "cliamp"
-        },
-        {
-          "id": "omarchy.weather"
-        },
-        {
-          "id": "omarchy.indicators"
-        },
-        {
-          "audioQuality": "320 kbps",
-          "deviceName": "Omarchy Spotify",
-          "id": "quickshell.spotify",
-          "idleShutdownMinutes": 15,
-          "maxBarTextWidth": "240",
-          "scrollBarText": "Off",
-          "scrollSpeed": "1",
-          "shortcutHints": "On",
-          "shortcutPlayer": "Omarchy Music app",
-          "showArtistName": "Off",
-          "showMiniPlayer": "On",
-          "showPausedTrack": "On",
-          "showTrackTitle": "On"
-        },
-        {
-          "id": "esegnorelli.omacapy",
-          "panelSide": "center"
-        },
-        {
-          "id": "omarchy.system-update"
-        }
-      ],
-      "centerEnd": [
-        {
-          "id": "omarchy.elsewhen",
-          "cities": [
-            {
-              "name": "Berlin",
-              "zone": "Europe/Berlin"
-            },
-            {
-              "name": "Delhi",
-              "zone": "Asia/Kolkata"
-            },
-            {
-              "name": "Tokyo",
-              "zone": "Asia/Tokyo"
-            },
-            {
-              "name": "Los Angeles",
-              "zone": "America/Los_Angeles"
-            },
-            {
-              "name": "New York",
-              "zone": "America/New_York"
-            }
-          ]
-        },
-        {
-          "id": "famas.media-plus"
-        },
-        {
-          "id": "pick.screenshot"
-        }
-      ],
       "tray": []
     },
-    "position": "top",
-    "transparent": false
+    "position": "top"
   },
   "cloneSourceRestores": [
     "matjam.omawall",
@@ -248,9 +248,9 @@
       "id": "omarchy.clipboard"
     },
     {
-      "id": "io.github.sirjul1337.lock-explorer",
+      "boot": "snapshot:pond",
       "design": "constellation",
-      "boot": "snapshot:pond"
+      "id": "io.github.sirjul1337.lock-explorer"
     },
     {
       "id": "io.github.maajix.spotlight"
