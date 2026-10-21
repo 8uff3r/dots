@@ -117,9 +117,6 @@
           "id": "local.opencode-go"
         },
         {
-          "id": "omarchy.agents"
-        },
-        {
           "id": "skvggor.omavault"
         },
         {
@@ -127,6 +124,9 @@
         },
         {
           "id": "jrmmhm.pocket"
+        },
+        {
+          "id": "omarchy.agents"
         },
         {
           "id": "io.github.terrifiedbug.omaice",
