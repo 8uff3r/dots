@@ -11,7 +11,7 @@ local rules = {
     -- Opacity for non-fullscreen windows
     { match = { fullscreen = false },                            opacity = 1.0 },
     -- Center all floating windows (not xwayland)
-    { match = { float = true, xwayland = false },                center = true,   group = false },
+    { match = { float = true, xwayland = false },                center = true,   group = "deniy" },
     -- Native transparency or force opaque
     {
         match = { class = "foot|equibop|org\\.quickshell|imv|swappy" },
