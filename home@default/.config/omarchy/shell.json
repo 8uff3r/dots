@@ -129,7 +129,7 @@
           "id": "io.github.terrifiedbug.omaice",
           "icon": "dots",
           "revealMode": "inline",
-          "revealOnHover": false
+          "revealOnHover": true
         },
         {
           "id": "wian47.removable-drives"
