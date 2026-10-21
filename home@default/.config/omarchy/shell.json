@@ -59,6 +59,9 @@
           "id": "com.aktivesolutions.bw-vault"
         },
         {
+          "id": "io.github.terrifiedbug.omaice"
+        },
+        {
           "id": "wian47.removable-drives"
         },
         {
@@ -98,9 +101,6 @@
         },
         {
           "id": "flux"
-        },
-        {
-          "id": "io.github.terrifiedbug.omaice"
         }
       ],
       "centerBegin": [
