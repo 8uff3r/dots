@@ -1,4 +1,4 @@
----@type HL.WindowRuleSpec[]
+---@class HL.WindowRuleSpec[]
 local rules = {
     -- Group
     { match = { class = ".*", float = 0 },        group = "set" },
