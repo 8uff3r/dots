@@ -1,39 +1,7 @@
 {
   "bar": {
-    "centerAnchor": "omarchy.clock",
     "layout": {
       "center": [
-        {
-          "id": "cliamp"
-        },
-        {
-          "id": "omarchy.weather"
-        },
-        {
-          "id": "omarchy.indicators"
-        },
-        {
-          "audioQuality": "320 kbps",
-          "deviceName": "Omarchy Spotify",
-          "id": "quickshell.spotify",
-          "idleShutdownMinutes": 15,
-          "maxBarTextWidth": "240",
-          "scrollBarText": "Off",
-          "scrollSpeed": "1",
-          "shortcutHints": "On",
-          "shortcutPlayer": "Omarchy Music app",
-          "showArtistName": "Off",
-          "showMiniPlayer": "On",
-          "showPausedTrack": "On",
-          "showTrackTitle": "On"
-        },
-        {
-          "id": "esegnorelli.omacapy",
-          "panelSide": "center"
-        },
-        {
-          "id": "omarchy.system-update"
-        },
         {
           "birthYear": 2000,
           "format": "ddd d MMM HH:mm",
@@ -41,15 +9,6 @@
           "id": "omarchy.clock",
           "lifeExpectancy": 60,
           "verticalFormat": "HH\n—\nmm"
-        },
-        {
-          "id": "omarchy.elsewhen"
-        },
-        {
-          "id": "famas.media-plus"
-        },
-        {
-          "id": "pick.screenshot"
         }
       ],
       "left": [
@@ -150,6 +109,50 @@
         },
         {
           "id": "flux"
+        }
+      ],
+      "centerBegin": [
+        {
+          "id": "cliamp"
+        },
+        {
+          "id": "omarchy.weather"
+        },
+        {
+          "id": "omarchy.indicators"
+        },
+        {
+          "audioQuality": "320 kbps",
+          "deviceName": "Omarchy Spotify",
+          "id": "quickshell.spotify",
+          "idleShutdownMinutes": 15,
+          "maxBarTextWidth": "240",
+          "scrollBarText": "Off",
+          "scrollSpeed": "1",
+          "shortcutHints": "On",
+          "shortcutPlayer": "Omarchy Music app",
+          "showArtistName": "Off",
+          "showMiniPlayer": "On",
+          "showPausedTrack": "On",
+          "showTrackTitle": "On"
+        },
+        {
+          "id": "esegnorelli.omacapy",
+          "panelSide": "center"
+        },
+        {
+          "id": "omarchy.system-update"
+        }
+      ],
+      "centerEnd": [
+        {
+          "id": "omarchy.elsewhen"
+        },
+        {
+          "id": "famas.media-plus"
+        },
+        {
+          "id": "pick.screenshot"
         }
       ]
     },
