@@ -89,16 +89,17 @@
           "id": "omarchy.menu"
         },
         {
+          "id": "tornikegomareli.spaces",
+          "iconStyle": "color",
+          "focusedTitle": false,
+          "previewSize": "small",
+          "labelStyle": "number",
           "activeStyle": "subtle",
           "density": "compact",
-          "focusedTitle": false,
-          "iconStyle": "color",
-          "id": "tornikegomareli.spaces",
-          "labelStyle": "number",
-          "maxIcons": 9,
+          "settingsButton": "hover",
           "middleClickClose": true,
-          "previewSize": "small",
-          "settingsButton": "hover"
+          "maxIcons": 9,
+          "iconSize": 16
         },
         {
           "allowUnverifiedUpdates": true,
