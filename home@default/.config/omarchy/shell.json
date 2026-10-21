@@ -126,6 +126,9 @@
           "id": "com.aktivesolutions.bw-vault"
         },
         {
+          "id": "jrmmhm.pocket"
+        },
+        {
           "id": "io.github.terrifiedbug.omaice",
           "icon": "dots",
           "revealMode": "inline",
@@ -171,9 +174,6 @@
         },
         {
           "id": "flux"
-        },
-        {
-          "id": "jrmmhm.pocket"
         }
       ],
       "tray": []
