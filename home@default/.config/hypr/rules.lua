@@ -1,17 +1,17 @@
 ---@type HL.WindowRuleSpec[]
 local rules = {
     -- Group
-    { match = { class = ".*", float = 0 },                       group = "set" },
-    { match = { float = true },                                  group = "deny" },
+    { match = { class = ".*", float = 0 },        group = "set" },
+    { match = { float = true },                   group = "deny" },
 
-    { match = { class = "org.omarchy.terminal", group = "deny" } },
+    { match = { class = "org.omarchy.terminal" }, group = "deny" },
     -- No shadow for tiled windows
-    { match = { float = false },                                 no_shadow = true },
-    { match = { workspace = "special:special" },                 group = "deny" },
+    { match = { float = false },                  no_shadow = true },
+    { match = { workspace = "special:special" },  group = "deny" },
     -- Opacity for non-fullscreen windows
-    { match = { fullscreen = false },                            opacity = 1.0 },
+    { match = { fullscreen = false },             opacity = 1.0 },
     -- Center all floating windows (not xwayland)
-    { match = { float = true, xwayland = false },                center = true,   group = "deny" },
+    { match = { float = true, xwayland = false }, center = true,   group = "deny" },
     -- Native transparency or force opaque
     {
         match = { class = "foot|equibop|org\\.quickshell|imv|swappy" },
