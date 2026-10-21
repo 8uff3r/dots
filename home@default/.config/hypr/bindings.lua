@@ -236,7 +236,7 @@ local binds = {
         "SUPER + R",
         "Omarchy menu",
         -- "omarchy-menu toggle apps",
-        "omarchy-shell shell toggle io.github.maajix.spotlight"
+        "omarchy menu toggle apps"
     },
     {
         "SUPER + F2",
