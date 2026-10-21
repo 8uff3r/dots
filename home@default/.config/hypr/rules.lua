@@ -1,7 +1,7 @@
 ---@type HL.WindowRuleSpec[]
 local rules = {
     -- Group
-    -- { match = { class = ".*", float = false },                   group = "set" },
+    { match = { class = ".*", float = false },                   group = "set" },
     { match = { float = true },                                  group = "deny" },
 
     { match = { class = "org.omarchy.terminal", group = "deny" } },
