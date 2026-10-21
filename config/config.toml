@@ -1,15 +1,8 @@
 [tools]
 bun = "latest"
-claude = "latest"
-codex = "latest"
-crush = "latest"
-gh = "latest"
 "github:bendlang/bend" = "2.0.16"
-"github:can1357/oh-my-pi" = "latest"
 "github:dmtrKovalenko/bashka" = "latest"
 mr-boxington = "latest"
-opencode = "latest"
-pi = "latest"
 uv = "latest"
 
 [dotfiles]
