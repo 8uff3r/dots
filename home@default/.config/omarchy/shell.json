@@ -59,17 +59,6 @@
           "id": "com.aktivesolutions.bw-vault"
         },
         {
-          "id": "io.github.terrifiedbug.omaice",
-          "revealOnHover": true,
-          "revealMode": "inline",
-          "alwaysHidden": [],
-          "pinned": [],
-          "hidden": [
-            "blueman"
-          ],
-          "icon": "dots"
-        },
-        {
           "id": "wian47.removable-drives"
         },
         {
@@ -176,7 +165,8 @@
         {
           "id": "pick.screenshot"
         }
-      ]
+      ],
+      "tray": []
     },
     "position": "top",
     "transparent": false
