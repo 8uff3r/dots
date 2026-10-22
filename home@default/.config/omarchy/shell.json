@@ -162,12 +162,13 @@
   "dock": {
     "autohide": false,
     "pinned": [
-      "org.gnome.Nautilus",
       "foot",
       "omacalc",
       "omawrite",
       "X",
-      "YouTube"
+      "YouTube",
+      "brave-origin",
+      "org.gnome.Nautilus"
     ]
   },
   "idle": {
