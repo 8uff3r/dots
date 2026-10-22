@@ -57,14 +57,7 @@
               "name": "Eastern",
               "zone": "US/Eastern"
             }
-          ],
-          "here": {
-            "name": "Tehran",
-            "zone": "Asia/Tehran",
-            "lat": 35.69439,
-            "lon": 51.42151,
-            "region": "IR"
-          }
+          ]
         },
         {
           "id": "famas.media-plus"
