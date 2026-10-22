@@ -64,9 +64,6 @@
         },
         {
           "id": "pick.screenshot"
-        },
-        {
-          "id": "omarchy.tray"
         }
       ],
       "left": [
@@ -92,6 +89,9 @@
         }
       ],
       "right": [
+        {
+          "id": "omarchy.tray"
+        },
         {
           "id": "leomoon-studios.omarchy-persian-calendar"
         },
