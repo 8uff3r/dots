@@ -160,7 +160,15 @@
     "omarchy.lock"
   ],
   "dock": {
-    "autohide": false
+    "autohide": false,
+    "pinned": [
+      "org.gnome.Nautilus",
+      "foot",
+      "omacalc",
+      "omawrite",
+      "X",
+      "YouTube"
+    ]
   },
   "idle": {
     "lock": 300,
