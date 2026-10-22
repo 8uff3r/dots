@@ -47,6 +47,7 @@
       ],
       "centerEnd": [
         {
+          "id": "omarchy.elsewhen",
           "cities": [
             {
               "name": "Pacific",
@@ -57,7 +58,13 @@
               "zone": "US/Eastern"
             }
           ],
-          "id": "omarchy.elsewhen"
+          "here": {
+            "name": "Tehran",
+            "zone": "Asia/Tehran",
+            "lat": 35.69439,
+            "lon": 51.42151,
+            "region": "IR"
+          }
         },
         {
           "id": "famas.media-plus"
