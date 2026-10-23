@@ -165,13 +165,13 @@
   "dock": {
     "autohide": false,
     "pinned": [
+      "brave-origin",
+      "io.github.tsouth89.Omakade",
       "foot",
       "omacalc",
       "omawrite",
       "X",
       "YouTube",
-      "brave-origin",
-      "io.github.tsouth89.Omakade",
       "org.kde.dolphin",
       "org.gnome.Nautilus"
     ]
