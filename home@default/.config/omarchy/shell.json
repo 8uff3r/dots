@@ -1,6 +1,6 @@
 {
   "bar": {
-    "background": "none",
+    "background": "glassy",
     "layout": {
       "center": [
         {
@@ -47,7 +47,6 @@
       ],
       "centerEnd": [
         {
-          "id": "omarchy.elsewhen",
           "cities": [
             {
               "name": "Pacific",
@@ -57,7 +56,8 @@
               "name": "Eastern",
               "zone": "US/Eastern"
             }
-          ]
+          ],
+          "id": "omarchy.elsewhen"
         },
         {
           "id": "famas.media-plus"
