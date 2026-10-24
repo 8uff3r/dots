@@ -144,7 +144,10 @@
         },
         {
           "id": "flux"
-        }
+        },
+        {
+          "id": "perfektnacht.controller-launcher"
+        },
       ],
       "tray": []
     },
@@ -186,9 +189,6 @@
     },
     {
       "id": "silvaio.gamemode"
-    },
-    {
-      "id": "perfektnacht.controller-launcher"
     },
     {
       "id": "omakdeconnect"
