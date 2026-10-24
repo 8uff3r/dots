@@ -1,91 +1,65 @@
 {
+  "version": 1,
+  "idle": {
+    "screensaver": 150,
+    "lock": 300
+  },
   "bar": {
+    "position": "top",
     "background": "opaque",
     "layout": {
-      "center": [
-        {
-          "birthYear": 2000,
-          "format": "ddd d MMM HH:mm",
-          "formatAlt": "d MMMM 'W'ww yyyy",
-          "id": "omarchy.clock",
-          "lifeExpectancy": 60,
-          "verticalFormat": "HH\n—\nmm"
-        }
-      ],
-      "centerBegin": [
-        {
-          "id": "cliamp"
-        },
-        {
-          "id": "omarchy.weather"
-        },
-        {
-          "id": "omarchy.indicators"
-        },
-        {
-          "audioQuality": "320 kbps",
-          "deviceName": "Omarchy Spotify",
-          "id": "quickshell.spotify",
-          "idleShutdownMinutes": 15,
-          "maxBarTextWidth": "240",
-          "scrollBarText": "Off",
-          "scrollSpeed": "1",
-          "shortcutHints": "On",
-          "shortcutPlayer": "Omarchy Music app",
-          "showArtistName": "Off",
-          "showMiniPlayer": "On",
-          "showPausedTrack": "On",
-          "showTrackTitle": "On"
-        },
-        {
-          "id": "esegnorelli.omacapy",
-          "panelSide": "center"
-        },
-        {
-          "id": "omarchy.system-update"
-        }
-      ],
-      "centerEnd": [
-        {
-          "cities": [
-            {
-              "name": "Pacific",
-              "zone": "US/Pacific"
-            },
-            {
-              "name": "Eastern",
-              "zone": "US/Eastern"
-            }
-          ],
-          "id": "omarchy.elsewhen"
-        },
-        {
-          "id": "famas.media-plus"
-        },
-        {
-          "id": "pick.screenshot"
-        }
-      ],
       "left": [
-        {
-          "id": "reidenxerx.keyboard-layout-per-app"
-        },
         {
           "id": "omarchy.menu"
         },
         {
           "id": "omarchy.workspaces"
+        }
+      ],
+      "centerBegin": [
+        {
+          "id": "omarchy.indicators"
+        }
+      ],
+      "center": [
+        {
+          "id": "omarchy.clock",
+          "format": "dddd HH:mm",
+          "formatAlt": "d MMMM 'W'ww yyyy",
+          "verticalFormat": "HH\n—\nmm"
+        }
+      ],
+      "centerEnd": [
+        {
+          "id": "omarchy.elsewhen",
+          "cities": [
+            {
+              "name": "Berlin",
+              "zone": "Europe/Berlin"
+            },
+            {
+              "name": "Delhi",
+              "zone": "Asia/Kolkata"
+            },
+            {
+              "name": "Tokyo",
+              "zone": "Asia/Tokyo"
+            },
+            {
+              "name": "Los Angeles",
+              "zone": "America/Los_Angeles"
+            },
+            {
+              "name": "New York",
+              "zone": "America/New_York"
+            }
+          ]
         },
         {
-          "allowUnverifiedUpdates": true,
-          "id": "io.github.juancasanueva.plugin-manager",
-          "tiledExpandedPanel": true
+          "id": "omarchy.weather"
         },
         {
-          "id": "agx.screen-time"
-        },
-        {
-          "id": "tomv.network-rate"
+          "id": "omarchy.system-update"
         }
       ],
       "right": [
@@ -93,161 +67,40 @@
           "id": "omarchy.tray"
         },
         {
-          "id": "leomoon-studios.omarchy-persian-calendar"
-        },
-        {
-          "id": "com.aktivesolutions.bw-vault"
+          "id": "omarchy.keyboard-layout"
         },
         {
           "id": "omarchy.agents"
         },
         {
-          "id": "skvggor.omavault"
-        },
-        {
-          "id": "wian47.removable-drives"
-        },
-        {
-          "id": "omaconnect"
-        },
-        {
-          "displayStyle": "List",
-          "id": "hl.peripheral_battery"
+          "id": "omarchy.bluetooth"
         },
         {
           "id": "omarchy.network"
         },
         {
-          "id": "omarchy.power"
-        },
-        {
-          "id": "ssupt.bluetooth-audio"
-        },
-        {
-          "id": "matjam.omawall"
-        },
-        {
           "id": "omarchy.audio"
-        },
-        {
-          "id": "omarchy.emojis"
         },
         {
           "id": "omarchy.monitor"
         },
         {
-          "id": "io.github.decadentsavant.bookmark-everything"
-        },
-        {
-          "id": "stappmus.activity-monitor",
-          "openExpanded": true
-        },
-        {
-          "id": "flux"
-        },
-        {
-          "id": "perfektnacht.controller-launcher"
-        },
-      ],
-      "tray": []
-    },
-    "position": "top"
+          "id": "omarchy.power"
+        }
+      ]
+    }
   },
-  "cloneSourceRestores": [
-    "matjam.omawall",
-    "famas.media-plus",
-    "io.github.sirjul1337.lock-explorer"
-  ],
-  "disabledPlugins": [
-    "omarchy.media",
-    "omarchy.lock"
-  ],
   "dock": {
-    "autohide": false,
+    "position": "bottom",
     "pinned": [
-      "brave-origin",
-      "io.github.tsouth89.Omakade",
+      "org.gnome.Nautilus",
+      "chromium",
       "foot",
       "omacalc",
       "omawrite",
       "X",
-      "YouTube",
-      "org.kde.dolphin",
-      "org.gnome.Nautilus"
+      "YouTube"
     ]
   },
-  "idle": {
-    "lock": 300,
-    "screensaver": 150
-  },
-  "plugins": [
-    {
-      "id": "shell.settings"
-    },
-    {
-      "id": "io.github.bmontythe3rd.display-manager"
-    },
-    {
-      "id": "silvaio.gamemode"
-    },
-    {
-      "id": "omakdeconnect"
-    },
-    {
-      "id": "omamail"
-    },
-    {
-      "id": "io.github.jondkinney.omapop"
-    },
-    {
-      "id": "skvggor.omavault"
-    },
-    {
-      "id": "local.opencode-go"
-    },
-    {
-      "id": "dlpwaters.qr-generator"
-    },
-    {
-      "id": "gotar.omarchy-themes"
-    },
-    {
-      "id": "omarchy.agents"
-    },
-    {
-      "id": "omaplug"
-    },
-    {
-      "id": "rdf.dock",
-      "items": [
-        {
-          "desktop": "brave-origin"
-        },
-        {
-          "desktop": "dev.zed.Zed"
-        },
-        {
-          "desktop": "org.telegram.desktop"
-        }
-      ]
-    },
-    {
-      "id": "cliamp"
-    },
-    {
-      "id": "omarchy.clipboard"
-    },
-    {
-      "boot": "snapshot:pond",
-      "design": "constellation",
-      "id": "io.github.sirjul1337.lock-explorer"
-    },
-    {
-      "id": "b.okomart"
-    },
-    {
-      "id": "omakade.guide"
-    }
-  ],
-  "version": 1
+  "plugins": []
 }
