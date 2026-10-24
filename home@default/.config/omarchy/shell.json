@@ -90,10 +90,10 @@
       ],
       "right": [
         {
-          "id": "omarchy.tray"
+          "id": "com.aktivesolutions.bw-vault"
         },
         {
-          "id": "com.aktivesolutions.bw-vault"
+          "id": "omarchy.tray"
         },
         {
           "id": "leomoon-studios.omarchy-persian-calendar"
