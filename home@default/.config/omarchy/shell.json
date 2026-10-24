@@ -96,7 +96,8 @@
           "id": "leomoon-studios.omarchy-persian-calendar"
         },
         {
-          "id": "perfektnacht.controller-launcher"
+          "id": "perfektnacht.controller-launcher",
+          "device": ""
         },
         {
           "id": "com.aktivesolutions.bw-vault"
