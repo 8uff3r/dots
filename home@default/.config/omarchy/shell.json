@@ -82,7 +82,8 @@
           "tiledExpandedPanel": true
         },
         {
-          "id": "agx.screen-time"
+          "id": "agx.screen-time",
+          "iconOnly": false
         },
         {
           "id": "tomv.network-rate"
