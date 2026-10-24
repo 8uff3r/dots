@@ -83,7 +83,8 @@
         },
         {
           "id": "agx.screen-time",
-          "iconOnly": false
+          "iconOnly": false,
+          "appAliases": "steam_app_3321460=CrimsonDesert"
         },
         {
           "id": "tomv.network-rate"
