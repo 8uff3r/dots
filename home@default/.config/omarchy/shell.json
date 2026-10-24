@@ -90,13 +90,13 @@
       ],
       "right": [
         {
+          "id": "local.opencode-go"
+        },
+        {
           "id": "omarchy.tray"
         },
         {
           "id": "leomoon-studios.omarchy-persian-calendar"
-        },
-        {
-          "id": "local.opencode-go"
         },
         {
           "id": "com.aktivesolutions.bw-vault"
