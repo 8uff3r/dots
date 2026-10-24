@@ -89,6 +89,9 @@
         }
       ],
       "right": [
+    {
+      "id": "perfektnacht.controller-launcher"
+    },
         {
           "id": "omarchy.tray"
         },
