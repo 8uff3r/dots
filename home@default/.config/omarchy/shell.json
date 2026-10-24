@@ -106,9 +106,6 @@
           "id": "omarchy.agents"
         },
         {
-          "id": "skvggor.omavault"
-        },
-        {
           "id": "wian47.removable-drives"
         },
         {
@@ -150,7 +147,11 @@
           "id": "flux"
         }
       ],
-      "tray": []
+      "tray": [
+        {
+          "id": "skvggor.omavault"
+        },
+      ]
     },
     "position": "top"
   },
