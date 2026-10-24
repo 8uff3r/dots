@@ -139,11 +139,11 @@
           "id": "com.aktivesolutions.bw-vault"
         },
         {
-          "id": "leomoon-studios.omarchy-persian-calendar"
-        },
-        {
           "id": "perfektnacht.controller-launcher",
           "device": ""
+        },
+        {
+          "id": "leomoon-studios.omarchy-persian-calendar"
         },
         {
           "id": "omarchy.agents"
