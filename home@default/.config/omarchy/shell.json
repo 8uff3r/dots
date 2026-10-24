@@ -90,13 +90,13 @@
       ],
       "right": [
         {
-          "id": "perfektnacht.controller-launcher"
-        },
-        {
           "id": "omarchy.tray"
         },
         {
           "id": "leomoon-studios.omarchy-persian-calendar"
+        },
+        {
+          "id": "perfektnacht.controller-launcher"
         },
         {
           "id": "com.aktivesolutions.bw-vault"
