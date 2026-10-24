@@ -93,19 +93,6 @@
           "id": "omarchy.tray"
         },
         {
-          "id": "com.aktivesolutions.bw-vault"
-        },
-        {
-          "id": "leomoon-studios.omarchy-persian-calendar"
-        },
-        {
-          "id": "perfektnacht.controller-launcher",
-          "device": ""
-        },
-        {
-          "id": "omarchy.agents"
-        },
-        {
           "id": "wian47.removable-drives"
         },
         {
@@ -148,6 +135,19 @@
         }
       ],
       "tray": [
+        {
+          "id": "com.aktivesolutions.bw-vault"
+        },
+        {
+          "id": "leomoon-studios.omarchy-persian-calendar"
+        },
+        {
+          "id": "perfektnacht.controller-launcher",
+          "device": ""
+        },
+        {
+          "id": "omarchy.agents"
+        },
         {
           "id": "skvggor.omavault"
         }
