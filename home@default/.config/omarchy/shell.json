@@ -1,6 +1,6 @@
 {
   "bar": {
-    "background": "opaque",
+    "background": "none",
     "layout": {
       "center": [
         {
@@ -82,9 +82,9 @@
           "tiledExpandedPanel": true
         },
         {
-          "id": "agx.screen-time",
+          "appAliases": "steam_app_3321460=CrimsonDesert",
           "iconOnly": false,
-          "appAliases": "steam_app_3321460=CrimsonDesert"
+          "id": "agx.screen-time"
         },
         {
           "id": "tomv.network-rate"
@@ -141,8 +141,8 @@
           "id": "com.aktivesolutions.bw-vault"
         },
         {
-          "id": "perfektnacht.controller-launcher",
-          "device": ""
+          "device": "",
+          "id": "perfektnacht.controller-launcher"
         },
         {
           "id": "leomoon-studios.omarchy-persian-calendar"
