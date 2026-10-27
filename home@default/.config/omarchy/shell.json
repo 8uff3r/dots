@@ -1,6 +1,6 @@
 {
   "bar": {
-    "background": "glassy",
+    "background": "opaque",
     "layout": {
       "center": [
         {
@@ -47,7 +47,6 @@
       ],
       "centerEnd": [
         {
-          "id": "omarchy.elsewhen",
           "cities": [
             {
               "name": "Tehran",
@@ -61,7 +60,8 @@
               "name": "Eastern",
               "zone": "US/Eastern"
             }
-          ]
+          ],
+          "id": "omarchy.elsewhen"
         },
         {
           "id": "famas.media-plus"
