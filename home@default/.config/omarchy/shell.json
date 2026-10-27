@@ -63,6 +63,10 @@
               "lat": 31.5,
               "lon": 34.75,
               "region": "IL"
+            },
+            {
+              "name": "Tehran",
+              "zone": "Asia/Tehran"
             }
           ]
         },
