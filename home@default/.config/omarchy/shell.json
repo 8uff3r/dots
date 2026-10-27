@@ -50,6 +50,10 @@
           "id": "omarchy.elsewhen",
           "cities": [
             {
+              "name": "Tehran",
+              "zone": "Asia/Tehran"
+            },
+            {
               "name": "Pacific",
               "zone": "US/Pacific"
             },
@@ -63,10 +67,6 @@
               "lat": 31.5,
               "lon": 34.75,
               "region": "IL"
-            },
-            {
-              "name": "Tehran",
-              "zone": "Asia/Tehran"
             }
           ]
         },
