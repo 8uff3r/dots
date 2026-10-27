@@ -47,6 +47,7 @@
       ],
       "centerEnd": [
         {
+          "id": "omarchy.elsewhen",
           "cities": [
             {
               "name": "Pacific",
@@ -55,9 +56,15 @@
             {
               "name": "Eastern",
               "zone": "US/Eastern"
+            },
+            {
+              "name": "Israel",
+              "zone": "Asia/Jerusalem",
+              "lat": 31.5,
+              "lon": 34.75,
+              "region": "IL"
             }
-          ],
-          "id": "omarchy.elsewhen"
+          ]
         },
         {
           "id": "famas.media-plus"
