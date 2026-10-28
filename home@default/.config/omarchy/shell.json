@@ -1,6 +1,6 @@
 {
   "bar": {
-    "background": "opaque",
+    "background": "none",
     "layout": {
       "center": [
         {
@@ -47,7 +47,6 @@
       ],
       "centerEnd": [
         {
-          "id": "omarchy.elsewhen",
           "cities": [
             {
               "name": "Tehran",
@@ -62,13 +61,14 @@
               "zone": "US/Eastern"
             },
             {
-              "name": "New York",
-              "zone": "America/New_York",
               "lat": 40.71427,
               "lon": -74.00597,
-              "region": "US"
+              "name": "New York",
+              "region": "US",
+              "zone": "America/New_York"
             }
           ],
+          "id": "omarchy.elsewhen",
           "offsetMode": "home"
         },
         {
