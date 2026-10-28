@@ -47,6 +47,7 @@
       ],
       "centerEnd": [
         {
+          "id": "omarchy.elsewhen",
           "cities": [
             {
               "name": "Tehran",
@@ -61,7 +62,7 @@
               "zone": "US/Eastern"
             }
           ],
-          "id": "omarchy.elsewhen"
+          "offsetMode": "home"
         },
         {
           "id": "famas.media-plus"
