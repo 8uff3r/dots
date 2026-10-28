@@ -164,12 +164,10 @@
   },
   "cloneSourceRestores": [
     "matjam.omawall",
-    "famas.media-plus",
-    "io.github.sirjul1337.lock-explorer"
+    "famas.media-plus"
   ],
   "disabledPlugins": [
-    "omarchy.media",
-    "omarchy.lock"
+    "omarchy.media"
   ],
   "dock": {
     "autohide": false,
@@ -248,11 +246,6 @@
     },
     {
       "id": "omarchy.clipboard"
-    },
-    {
-      "boot": "snapshot:pond",
-      "design": "constellation",
-      "id": "io.github.sirjul1337.lock-explorer"
     },
     {
       "id": "b.okomart"
