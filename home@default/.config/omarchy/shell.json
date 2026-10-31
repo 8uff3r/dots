@@ -10,6 +10,9 @@
           "id": "omarchy.clock",
           "lifeExpectancy": 60,
           "verticalFormat": "HH\n—\nmm"
+        },
+        {
+          "id": "io.github.shirak-semonian.myip"
         }
       ],
       "centerBegin": [
@@ -105,9 +108,6 @@
       "right": [
         {
           "id": "omarchy.tray"
-        },
-        {
-          "id": "io.github.shirak-semonian.myip"
         },
         {
           "id": "wian47.removable-drives"
