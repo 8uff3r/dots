@@ -99,7 +99,7 @@
         {
           "id": "agx.screen-time",
           "appAliases": "steam_app_3321460=CrimsonDesert, steam_app_4115450=Phantom Blade 0",
-          "iconOnly": false
+          "iconOnly": true
         },
         {
           "id": "tomv.network-rate"
