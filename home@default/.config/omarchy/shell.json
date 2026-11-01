@@ -1,6 +1,6 @@
 {
   "bar": {
-    "background": "glassy",
+    "background": "opaque",
     "layout": {
       "center": [
         {
@@ -97,9 +97,9 @@
           "tiledExpandedPanel": true
         },
         {
-          "id": "agx.screen-time",
           "appAliases": "steam_app_3321460=CrimsonDesert, steam_app_4115450=Phantom Blade 0",
-          "iconOnly": false
+          "iconOnly": false,
+          "id": "agx.screen-time"
         },
         {
           "id": "tomv.network-rate"
