@@ -141,14 +141,14 @@
           "id": "omarchy.monitor"
         },
         {
-          "id": "io.github.decadentsavant.bookmark-everything"
-        },
-        {
           "id": "stappmus.activity-monitor",
           "openExpanded": true
         },
         {
           "id": "flux"
+        },
+        {
+          "id": "io.github.decadentsavant.bookmark-everything"
         }
       ],
       "tray": [
