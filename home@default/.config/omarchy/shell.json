@@ -97,9 +97,9 @@
           "tiledExpandedPanel": true
         },
         {
-          "appAliases": "steam_app_3321460=CrimsonDesert",
-          "iconOnly": false,
-          "id": "agx.screen-time"
+          "id": "agx.screen-time",
+          "appAliases": "steam_app_3321460=CrimsonDesert, steam_app_4115450=Phantom Blade 0",
+          "iconOnly": false
         },
         {
           "id": "tomv.network-rate"
