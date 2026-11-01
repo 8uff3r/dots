@@ -41,6 +41,9 @@
           "showTrackTitle": "On"
         },
         {
+          "id": "pick.screenshot"
+        },
+        {
           "id": "esegnorelli.omacapy",
           "panelSide": "center"
         },
@@ -76,9 +79,6 @@
         },
         {
           "id": "famas.media-plus"
-        },
-        {
-          "id": "pick.screenshot"
         }
       ],
       "left": [
