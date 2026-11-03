@@ -20,9 +20,6 @@
           "id": "cliamp"
         },
         {
-          "id": "omarchy.weather"
-        },
-        {
           "id": "omarchy.indicators"
         },
         {
@@ -42,6 +39,9 @@
         },
         {
           "id": "pick.screenshot"
+        },
+        {
+          "id": "omarchy.weather"
         },
         {
           "id": "esegnorelli.omacapy",
