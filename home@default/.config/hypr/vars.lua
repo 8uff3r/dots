@@ -3,7 +3,7 @@ local M = {
     ---- MY PROGRAMS ----
     ---------------------
     terminal = "foot",
-    fileManager = "strata",
+    fileManager = "flea",
     menu = "fuzzel",
     editor = "zeditor",
     ---------------------
