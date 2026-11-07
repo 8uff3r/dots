@@ -10,9 +10,6 @@
           "id": "omarchy.clock",
           "lifeExpectancy": 60,
           "verticalFormat": "HH\n—\nmm"
-        },
-        {
-          "id": "io.github.shirak-semonian.myip"
         }
       ],
       "centerBegin": [
@@ -103,6 +100,9 @@
         },
         {
           "id": "tomv.network-rate"
+        },
+        {
+          "id": "io.github.shirak-semonian.myip"
         }
       ],
       "right": [
