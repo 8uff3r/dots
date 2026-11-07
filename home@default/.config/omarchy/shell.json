@@ -110,18 +110,6 @@
           "id": "omarchy.tray"
         },
         {
-          "id": "flpems.device-battery",
-          "language": "en",
-          "devicePreferences": {
-            "F4_9D_8A_C0_8D_6A": {
-              "alias": "soundcore Space One",
-              "path": "/org/bluez/hci0/dev_F4_9D_8A_C0_8D_6A",
-              "single": true,
-              "mode": "Ícones"
-            }
-          }
-        },
-        {
           "id": "io.github.thisisgm.flea-shelf"
         },
         {
