@@ -4,6 +4,9 @@
     "layout": {
       "center": [
         {
+          "id": "io.github.shirak-semonian.myip"
+        },
+        {
           "birthYear": 2000,
           "format": "ddd d MMM HH:mm",
           "formatAlt": "d MMMM 'W'ww yyyy",
@@ -100,9 +103,6 @@
         },
         {
           "id": "tomv.network-rate"
-        },
-        {
-          "id": "io.github.shirak-semonian.myip"
         }
       ],
       "right": [
