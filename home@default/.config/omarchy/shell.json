@@ -110,7 +110,8 @@
           "id": "omarchy.tray"
         },
         {
-          "id": "flpems.device-battery"
+          "id": "flpems.device-battery",
+          "language": "en"
         },
         {
           "id": "io.github.thisisgm.flea-shelf"
