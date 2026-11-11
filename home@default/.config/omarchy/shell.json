@@ -12,6 +12,9 @@
           "verticalFormat": "HH\n—\nmm"
         },
         {
+          "id": "tomv.network-rate"
+        },
+        {
           "id": "io.github.shirak-semonian.myip"
         }
       ],
@@ -100,9 +103,6 @@
           "appAliases": "steam_app_3321460=CrimsonDesert, steam_app_4115450=Phantom Blade 0",
           "iconOnly": false,
           "id": "agx.screen-time"
-        },
-        {
-          "id": "tomv.network-rate"
         }
       ],
       "right": [
