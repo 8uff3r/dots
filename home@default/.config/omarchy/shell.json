@@ -12,13 +12,13 @@
           "verticalFormat": "HH\n—\nmm"
         },
         {
-          "id": "tomv.network-rate"
-        },
-        {
           "id": "io.github.shirak-semonian.myip"
         }
       ],
       "centerBegin": [
+        {
+          "id": "tomv.network-rate"
+        },
         {
           "id": "cliamp"
         },
