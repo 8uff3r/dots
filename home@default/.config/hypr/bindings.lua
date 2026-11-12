@@ -328,10 +328,9 @@ o.bind("SUPER + SHIFT + PRINT", "Rolling screenshot", "omarchy-shell io.github.e
 -- >>> spotlight setup tour (managed; rerun via "Run Setup Tour") >>>
 o.bind("ALT + SPACE", "Spotlight", "omarchy-shell shell toggle io.github.maajix.spotlight '{}'")
 -- <<< spotlight setup tour <<<
--- strata-installer: file-manager start
+-- file-manager keybindings
 hl.unbind("SUPER + SHIFT + F")
 hl.unbind("SUPER + ALT + SHIFT + F")
-o.bind("SUPER + SHIFT + F", "File manager", { launch = "/usr/bin/strata" })
+o.bind("SUPER + SHIFT + F", "File manager", { launch = "folio" })
 o.bind("SUPER + ALT + SHIFT + F", "File manager (cwd)",
-    "uwsm-app -- /usr/bin/strata \"$(omarchy-cmd-terminal-cwd)\"")
--- strata-installer: file-manager end
+    "uwsm-app -- folio \"$(omarchy-cmd-terminal-cwd)\"")
