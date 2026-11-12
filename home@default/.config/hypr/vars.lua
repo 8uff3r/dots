@@ -3,7 +3,7 @@ local M = {
     ---- MY PROGRAMS ----
     ---------------------
     terminal = "foot",
-    fileManager = "flea",
+    fileManager = "folio",
     menu = "fuzzel",
     editor = "zeditor",
     ---------------------
