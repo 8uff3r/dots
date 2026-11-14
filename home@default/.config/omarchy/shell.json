@@ -177,8 +177,7 @@
         }
       ]
     },
-    "position": "top",
-    "id": "io.github.hugorolimf.bar"
+    "position": "top"
   },
   "cloneSourceRestores": [
     "matjam.omawall",
