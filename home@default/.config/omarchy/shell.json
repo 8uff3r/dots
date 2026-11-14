@@ -283,6 +283,9 @@
     },
     {
       "id": "rylan.notifications"
+    },
+    {
+      "id": "rylan.osd"
     }
   ],
   "version": 1
