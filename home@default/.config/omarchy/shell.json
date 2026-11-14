@@ -14,9 +14,6 @@
       ],
       "centerBegin": [
         {
-          "id": "io.github.shirak-semonian.myip"
-        },
-        {
           "id": "tomv.network-rate"
         },
         {
@@ -24,6 +21,9 @@
         },
         {
           "id": "omarchy.indicators"
+        },
+        {
+          "id": "io.github.shirak-semonian.myip"
         },
         {
           "audioQuality": "320 kbps",
