@@ -23,9 +23,6 @@
           "id": "omarchy.indicators"
         },
         {
-          "id": "io.github.shirak-semonian.myip"
-        },
-        {
           "audioQuality": "320 kbps",
           "deviceName": "Omarchy Spotify",
           "id": "quickshell.spotify",
@@ -42,6 +39,9 @@
         },
         {
           "id": "pick.screenshot"
+        },
+        {
+          "id": "io.github.shirak-semonian.myip"
         },
         {
           "id": "omarchy.weather"
