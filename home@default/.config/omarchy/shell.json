@@ -81,7 +81,7 @@
           "offsetMode": "home"
         },
         {
-          "id": "famas.media-plus"
+          "id": "omarchy.media"
         },
         {
           "id": "io.github.qempexe.omaudix"
@@ -180,11 +180,9 @@
     "position": "top"
   },
   "cloneSourceRestores": [
-    "matjam.omawall",
-    "famas.media-plus"
+    "matjam.omawall"
   ],
   "disabledPlugins": [
-    "omarchy.media",
     "omarchy.notifications",
     "omarchy.osd"
   ],
