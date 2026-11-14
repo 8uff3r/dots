@@ -110,9 +110,6 @@
           "id": "omarchy.tray"
         },
         {
-          "id": "io.github.rafabertholdo.temperature"
-        },
-        {
           "id": "ismoil.fans",
           "mode": "auto"
         },
