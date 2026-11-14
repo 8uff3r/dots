@@ -111,7 +111,7 @@
         },
         {
           "id": "ismoil.fans",
-          "mode": "manual"
+          "mode": "auto"
         },
         {
           "id": "io.github.thisisgm.flea-shelf"
