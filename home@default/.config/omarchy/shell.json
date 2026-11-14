@@ -110,6 +110,9 @@
           "id": "omarchy.tray"
         },
         {
+          "id": "io.github.qempexe.tableau"
+        },
+        {
           "id": "ismoil.fans",
           "mode": "auto"
         },
