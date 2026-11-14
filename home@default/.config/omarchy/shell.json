@@ -110,9 +110,6 @@
           "id": "omarchy.tray"
         },
         {
-          "id": "skvggor.omavault"
-        },
-        {
           "id": "ismoil.fans",
           "mode": "manual"
         },
@@ -171,6 +168,9 @@
         },
         {
           "id": "leomoon-studios.omarchy-persian-calendar"
+        },
+        {
+          "id": "skvggor.omavault"
         },
         {
           "id": "omarchy.agents"
