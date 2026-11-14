@@ -114,6 +114,10 @@
           "mode": "manual"
         },
         {
+          "id": "stappmus.activity-monitor",
+          "openExpanded": true
+        },
+        {
           "id": "wian47.removable-drives"
         },
         {
@@ -143,10 +147,6 @@
         },
         {
           "id": "omarchy.monitor"
-        },
-        {
-          "id": "stappmus.activity-monitor",
-          "openExpanded": true
         },
         {
           "id": "flux"
