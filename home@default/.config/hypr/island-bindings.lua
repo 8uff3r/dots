@@ -6,7 +6,7 @@ local function island(keys, description, command)
 end
 
 -- format: 2
--- addons: ask,displays,plugins,stats,tray
+-- addons: ask,displays,keyboard,plugins,stats,tray
 island("SUPER + ALT + SPACE", "App Launcher", "apps")
 island("SUPER + CTRL + E", "Emoji", "show emoji")
 island("SUPER + CTRL + V", "Clipboard", "show clipboard")
