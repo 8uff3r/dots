@@ -17,6 +17,12 @@
           "id": "cliamp"
         },
         {
+          "id": "omarchy.indicators"
+        },
+        {
+          "id": "pick.screenshot"
+        },
+        {
           "audioQuality": "320 kbps",
           "deviceName": "Omarchy Spotify",
           "id": "quickshell.spotify",
@@ -30,12 +36,6 @@
           "showMiniPlayer": "On",
           "showPausedTrack": "On",
           "showTrackTitle": "On"
-        },
-        {
-          "id": "pick.screenshot"
-        },
-        {
-          "id": "omarchy.indicators"
         },
         {
           "id": "tomv.network-rate"
