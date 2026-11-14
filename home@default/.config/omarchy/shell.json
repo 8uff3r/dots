@@ -95,6 +95,9 @@
           "id": "omarchy.workspaces"
         },
         {
+          "id": "io.github.ehlxr.advanced-workspaces"
+        },
+        {
           "allowUnverifiedUpdates": true,
           "id": "io.github.juancasanueva.plugin-manager",
           "tiledExpandedPanel": true
