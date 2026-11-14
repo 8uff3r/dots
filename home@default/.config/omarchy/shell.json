@@ -20,9 +20,6 @@
           "id": "cliamp"
         },
         {
-          "id": "omarchy.indicators"
-        },
-        {
           "audioQuality": "320 kbps",
           "deviceName": "Omarchy Spotify",
           "id": "quickshell.spotify",
@@ -39,6 +36,9 @@
         },
         {
           "id": "pick.screenshot"
+        },
+        {
+          "id": "omarchy.indicators"
         },
         {
           "id": "io.github.shirak-semonian.myip"
