@@ -177,16 +177,13 @@
         }
       ]
     },
-    "position": "top",
-    "id": "omacale.bar"
+    "position": "top"
   },
   "cloneSourceRestores": [
     "matjam.omawall",
-    "famas.media-plus",
-    "hello-lock"
+    "famas.media-plus"
   ],
   "disabledPlugins": [
-    "omarchy.lock",
     "omarchy.media",
     "omarchy.notifications",
     "omarchy.osd"
@@ -277,13 +274,7 @@
       "id": "omakade.guide"
     },
     {
-      "id": "hello-lock"
-    },
-    {
       "id": "guilhermerisu.notifications"
-    },
-    {
-      "id": "rylan.osd"
     }
   ],
   "version": 1
