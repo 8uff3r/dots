@@ -177,7 +177,8 @@
         }
       ]
     },
-    "position": "top"
+    "position": "top",
+    "id": "omacale.bar"
   },
   "cloneSourceRestores": [
     "matjam.omawall",
