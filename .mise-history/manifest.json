@@ -109,6 +109,8 @@
     "home/.config/systemd/user": 448,
     "home/.config/zed/settings.json": 384,
     "home@default/.config/hypr/bindings.lua": 384,
+    "home@default/.config/hypr/hyprland.lua": 384,
+    "home@default/.config/hypr/island-bindings.lua": 384,
     "home@default/.config/omarchy/shell.json": 384
   }
 }
