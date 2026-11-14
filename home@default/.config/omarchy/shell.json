@@ -186,8 +186,10 @@
     "hello-lock"
   ],
   "disabledPlugins": [
+    "omarchy.lock",
     "omarchy.media",
-    "omarchy.lock"
+    "omarchy.notifications",
+    "omarchy.osd"
   ],
   "dock": {
     "autohide": false,
@@ -276,6 +278,9 @@
     },
     {
       "id": "hello-lock"
+    },
+    {
+      "id": "guilhermerisu.notifications"
     }
   ],
   "version": 1
