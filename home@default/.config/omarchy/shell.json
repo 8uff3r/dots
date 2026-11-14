@@ -110,7 +110,8 @@
           "id": "omarchy.tray"
         },
         {
-          "id": "ismoil.fans"
+          "id": "ismoil.fans",
+          "mode": "manual"
         },
         {
           "id": "io.github.thisisgm.flea-shelf"
