@@ -14,9 +14,6 @@
       ],
       "centerBegin": [
         {
-          "id": "tomv.network-rate"
-        },
-        {
           "id": "cliamp"
         },
         {
@@ -39,6 +36,9 @@
         },
         {
           "id": "omarchy.indicators"
+        },
+        {
+          "id": "tomv.network-rate"
         },
         {
           "id": "io.github.shirak-semonian.myip"
