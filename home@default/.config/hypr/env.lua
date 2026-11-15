@@ -3,6 +3,7 @@ hl.env("QT_WAYLAND_DISABLE_WINDOWDECORATION", "1")
 hl.env("QT_AUTO_SCREEN_SCALE_FACTOR", "1")
 
 hl.env("GDK_BACKEND", "wayland,x11")
+hl.env("GTK_USE_PORTAL", "1")
 hl.env("QT_QPA_PLATFORM", "wayland;xcb")
 hl.env("SDL_VIDEODRIVER", "wayland,x11,windows")
 hl.env("CLUTTER_BACKEND", "wayland")
