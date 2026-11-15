@@ -235,7 +235,7 @@ local binds = {
     {
         "ALT + X",
         "Omarchy menu",
-        "omarchy-menu toggle",
+        { menu = "root" },
     },
     {
         "SUPER + R",
