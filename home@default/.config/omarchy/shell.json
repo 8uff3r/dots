@@ -173,7 +173,6 @@
     "matjam.omawall"
   ],
   "disabledPlugins": [
-    "omarchy.notifications",
     "omarchy.osd"
   ],
   "dock": {
