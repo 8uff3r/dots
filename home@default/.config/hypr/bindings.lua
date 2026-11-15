@@ -250,7 +250,7 @@ local binds = {
     {
         "SUPER + V",
         "Clipboard manager",
-        { panel = "omarchy.jlipboard" },
+        { panel = "omarchy.clipboard" },
     },
     {
         "SUPER + ALT + K",
