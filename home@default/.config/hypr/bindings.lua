@@ -45,7 +45,7 @@ local into_or_out_of_group = function(dir)
     end
 end
 
----@type { [1]: string, [2]: string, [3]: function|HL.Dispatcher|string, [4]: HL.BindOptions?}[]
+---@type { [1]: string, [2]: string, [3]: table|function|HL.Dispatcher|string, [4]: HL.BindOptions?}[]
 local binds = {
     {
         "CTRL + F2",
