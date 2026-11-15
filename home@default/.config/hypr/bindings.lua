@@ -260,7 +260,7 @@ local binds = {
     {
         "SUPER + Q",
         "Power menu",
-        "omarchy-menu toggle system",
+        "omarchy shell omarchy.dock system",
         { locked = true },
     },
     {
