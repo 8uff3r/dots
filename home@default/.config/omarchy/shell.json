@@ -170,10 +170,12 @@
     "position": "top"
   },
   "cloneSourceRestores": [
-    "matjam.omawall"
+    "matjam.omawall",
+    "hello-lock"
   ],
   "disabledPlugins": [
-    "omarchy.osd"
+    "omarchy.osd",
+    "omarchy.lock"
   ],
   "dock": {
     "autohide": false,
@@ -262,6 +264,9 @@
     },
     {
       "id": "zzwong.stage"
+    },
+    {
+      "id": "hello-lock"
     }
   ],
   "version": 1
