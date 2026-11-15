@@ -235,12 +235,12 @@ local binds = {
     {
         "ALT + X",
         "Omarchy menu",
-        "omarchy-menu toggle root",
+        "omarchy-menu toggle",
     },
     {
         "SUPER + R",
         "Omarchy menu",
-        "omarchy menu toggle apps"
+        "omarchy shell omarchy.dock apps"
     },
     {
         "SUPER + F2",
