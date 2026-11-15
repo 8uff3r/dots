@@ -114,7 +114,7 @@
         },
         {
           "id": "ismoil.fans",
-          "mode": "manual"
+          "mode": "auto"
         },
         {
           "id": "stappmus.activity-monitor",
