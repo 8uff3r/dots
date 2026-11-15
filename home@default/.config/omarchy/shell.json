@@ -113,10 +113,6 @@
           "id": "omarchy.tray"
         },
         {
-          "id": "ismoil.fans",
-          "mode": "manual"
-        },
-        {
           "id": "stappmus.activity-monitor",
           "openExpanded": true
         },
