@@ -31,6 +31,7 @@ local rules = {
     { match = { class = "imv" },                                      float = true },
     { match = { class = "system-config-printer" },                    float = true },
     { match = { class = "org\\.quickshell" },                         float = true },
+    { match = { class = "folio-chooser" },                            float = true, group = "deny", center = true },
 
     -- Float, resize and center
     {
