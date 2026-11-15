@@ -306,7 +306,7 @@ local binds = {
     }
 }
 
-o.bind("SUPER + TAB", "Power menu", { menu = "system" }, { locked = true })
+o.bind("SUPER + TAB", "Power menu", { menu = "root" }, { locked = true })
 for _, value in ipairs(binds) do
     o.bind(value[1], value[2], value[3], value[4])
 end
