@@ -240,7 +240,7 @@ local binds = {
     {
         "SUPER + R",
         "Omarchy menu",
-        { panel = "omarchy.dock" }
+        "omarchy shell omarchy.dock apps"
     },
     {
         "SUPER + F2",
