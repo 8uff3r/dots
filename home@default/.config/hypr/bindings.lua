@@ -260,7 +260,7 @@ local binds = {
     {
         "SUPER + Q",
         "Power menu",
-        { menu = "system" },
+        { panel = "omarchy.power" },
         { locked = true },
     },
     {
