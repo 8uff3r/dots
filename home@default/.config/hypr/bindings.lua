@@ -306,6 +306,7 @@ local binds = {
     }
 }
 
+o.bind("SUPER + TAB", "Power", { menu = "omarchy.power" } )
 for _, value in ipairs(binds) do
     o.bind(value[1], value[2], value[3], value[4])
 end
