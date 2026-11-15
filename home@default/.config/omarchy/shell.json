@@ -82,12 +82,12 @@
         },
         {
           "id": "io.github.qempexe.omaudix"
-        },
-        {
-          "id": "omarchy.power"
         }
       ],
       "left": [
+        {
+          "id": "omarchy.power"
+        },
         {
           "id": "reidenxerx.keyboard-layout-per-app"
         },
