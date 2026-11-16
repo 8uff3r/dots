@@ -123,8 +123,8 @@
           "id": "omaconnect"
         },
         {
-          "displayStyle": "List",
-          "id": "hl.peripheral_battery"
+          "id": "hl.peripheral_battery",
+          "displayStyle": "List"
         },
         {
           "id": "omarchy.network"
