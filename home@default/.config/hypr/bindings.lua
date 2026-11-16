@@ -303,7 +303,12 @@ local binds = {
         "SUPER + W",
         "Everything",
         "omarchy-shell shell toggle b.everything"
-    }
+    },
+  {
+    "SUPER + A",
+    "Stage",
+    "omarchy-shell shell toggle zzwong.stage"
+  }
 }
 
 for _, value in ipairs(binds) do
