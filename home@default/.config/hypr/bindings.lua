@@ -305,9 +305,9 @@ local binds = {
         "omarchy-shell shell toggle b.everything"
     },
     {
-      "SUPER + A",
-      "Stage",
-      "omarchy-shell shell toggle zzwong.stage"
+        "SUPER + A",
+        "Stage",
+        "omarchy-shell shell toggle zzwong.stage"
     }
 }
 
