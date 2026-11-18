@@ -1,6 +1,6 @@
 {
   "bar": {
-    "background": "none",
+    "background": "glassy",
     "layout": {
       "center": [
         {
@@ -100,9 +100,9 @@
           "tiledExpandedPanel": true
         },
         {
-          "id": "agx.screen-time",
           "appAliases": "steam_app_3321460=CrimsonDesert, steam_app_4115450=Phantom Blade 0, steam_app_1601570=The Alters",
-          "iconOnly": false
+          "iconOnly": false,
+          "id": "agx.screen-time"
         }
       ],
       "right": [
@@ -120,8 +120,8 @@
           "id": "omaconnect"
         },
         {
-          "id": "hl.peripheral_battery",
-          "displayStyle": "List"
+          "displayStyle": "List",
+          "id": "hl.peripheral_battery"
         },
         {
           "id": "omarchy.network"
