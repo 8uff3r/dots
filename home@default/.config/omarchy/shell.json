@@ -1,6 +1,6 @@
 {
   "bar": {
-    "background": "glassy",
+    "background": "none",
     "layout": {
       "center": [
         {
@@ -107,11 +107,11 @@
       ],
       "right": [
         {
+          "hidden": [],
           "id": "omarchy.tray",
           "pinned": [
             "steam"
-          ],
-          "hidden": []
+          ]
         },
         {
           "id": "stappmus.activity-monitor",
