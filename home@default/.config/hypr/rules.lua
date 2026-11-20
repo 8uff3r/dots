@@ -123,6 +123,7 @@ local rules = {
     { match = { class = "^(steam)$", title = "^(Steam Big Picture Mode)$" }, fullscreen = true },
     { match = { class = "^()$", title = "^(Steam - Self Updater)$" },        float = true },
     { match = { class = "^(steam)$", title = "negative:^()$" },              float = false },
+    { match = { class = "^[sS]team$" },                                      ["hyprbars:no_bar"] = true },
 
     -- Games (Steam, Lutris/Wine, Gamescope)
     {
