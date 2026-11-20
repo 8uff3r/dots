@@ -53,31 +53,6 @@
       ],
       "centerEnd": [
         {
-          "cities": [
-            {
-              "name": "Tehran",
-              "zone": "Asia/Tehran"
-            },
-            {
-              "name": "Pacific",
-              "zone": "US/Pacific"
-            },
-            {
-              "name": "Eastern",
-              "zone": "US/Eastern"
-            },
-            {
-              "lat": 40.71427,
-              "lon": -74.00597,
-              "name": "New York",
-              "region": "US",
-              "zone": "America/New_York"
-            }
-          ],
-          "id": "omarchy.elsewhen",
-          "offsetMode": "home"
-        },
-        {
           "id": "tomv.network-rate"
         }
       ],
@@ -106,6 +81,31 @@
         }
       ],
       "right": [
+        {
+          "cities": [
+            {
+              "name": "Tehran",
+              "zone": "Asia/Tehran"
+            },
+            {
+              "name": "Pacific",
+              "zone": "US/Pacific"
+            },
+            {
+              "name": "Eastern",
+              "zone": "US/Eastern"
+            },
+            {
+              "lat": 40.71427,
+              "lon": -74.00597,
+              "name": "New York",
+              "region": "US",
+              "zone": "America/New_York"
+            }
+          ],
+          "id": "omarchy.elsewhen",
+          "offsetMode": "home"
+        },
         {
           "hidden": [],
           "id": "omarchy.tray",
