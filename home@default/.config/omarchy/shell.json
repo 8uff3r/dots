@@ -38,9 +38,6 @@
           "showTrackTitle": "On"
         },
         {
-          "id": "tomv.network-rate"
-        },
-        {
           "id": "io.github.shirak-semonian.myip"
         },
         {
@@ -79,6 +76,9 @@
           ],
           "id": "omarchy.elsewhen",
           "offsetMode": "home"
+        },
+        {
+          "id": "tomv.network-rate"
         }
       ],
       "left": [
