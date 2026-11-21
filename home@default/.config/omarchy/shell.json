@@ -54,14 +54,14 @@
       "centerEnd": [
         {
           "id": "tomv.network-rate"
+        },
+        {
+          "id": "reidenxerx.keyboard-layout-per-app"
         }
       ],
       "left": [
         {
           "id": "omarchy.power"
-        },
-        {
-          "id": "reidenxerx.keyboard-layout-per-app"
         },
         {
           "id": "omarchy.menu"
