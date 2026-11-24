@@ -1,6 +1,6 @@
 {
   "bar": {
-    "background": "glassy",
+    "background": "none",
     "layout": {
       "center": [
         {
@@ -107,13 +107,13 @@
           "offsetMode": "home"
         },
         {
+          "hidden": [],
           "id": "omarchy.tray",
           "pinned": [
             "steam",
             "FlClash",
             "tray-icon tray app prism-tray"
-          ],
-          "hidden": []
+          ]
         },
         {
           "id": "stappmus.activity-monitor",
