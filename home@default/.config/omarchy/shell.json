@@ -107,12 +107,13 @@
           "offsetMode": "home"
         },
         {
-          "hidden": [],
           "id": "omarchy.tray",
           "pinned": [
             "steam",
-            "FlClash"
-          ]
+            "FlClash",
+            "tray-icon tray app prism-tray"
+          ],
+          "hidden": []
         },
         {
           "id": "stappmus.activity-monitor",
