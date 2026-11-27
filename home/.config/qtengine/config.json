@@ -1,7 +1,7 @@
 {
   "theme": {
     "colorScheme": "/usr/share/color-schemes/Darkly.colors",
-    "iconTheme": "breeze-dark",
+    "iconTheme": "Adwaita",
     "style": "breeze",
     "font": {
       "family": "DejaVu Sans",
