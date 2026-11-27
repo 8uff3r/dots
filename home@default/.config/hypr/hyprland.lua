@@ -11,6 +11,9 @@ _G.omarchy_default_bindings = false
 -- omarchy_preinstalled_bindings = false
 
 -- Load Omarchy defaults.
+-- Your own gestures replace Omarchy's defaults.
+omarchy_default_gestures = false
+
 require("default.hypr.omarchy")
 
 -- Put your personal overrides in these files. They're loaded after Omarchy's
